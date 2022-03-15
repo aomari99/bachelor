@@ -5,7 +5,8 @@ from transformers import BertTokenizerFast, pipeline ,BertForTokenClassification
 from sentence_transformers import SentenceTransformer, util
 import itertools
 class BertModels():
-    def __init__(self) -> None:        
+    def __init__(self) -> None: 
+        #load all models and tokenizer       
         self.tokenizer = BertTokenizerFast.from_pretrained('./models/NEWS_TOK_2')
         self.model = BertForTokenClassification.from_pretrained('./models/NEWS_NER_2/', config = './models/NEWS_NER_2/')
         self.sentence_model = BertForTokenClassification.from_pretrained('./models/NEWS_Sentence_2/', config = './models/NEWS_Sentence_2/')
@@ -13,6 +14,7 @@ class BertModels():
         self.nlp =  pipeline('ner', model=self.model, ignore_labels=["SENTENCE_END"], tokenizer=self.tokenizer , aggregation_strategy="max")
         #labelsdict={0: 'I-LOCATION', 1: 'I-ORGANIZATION', 2: 'B-LOCATION', 3: 'B-PERSON_FIRSTNAME', 4: 'I-SENTENCE_END', 5: 'I-LOCATION_STREET', 6: 'O', 7: 'B-SENTENCE_END', 8: 'I-PERSON_FIRSTNAME', 9: 'B-ORGANIZATION', 10: 'B-PERSON_AGE', 11: 'B-LOCATION_CITY', 12: 'I-LOCATION_ASSOSIATION', 13: 'I-PERSON_AGE', 14: 'B-LOCATION_STREET', 15: 'B-TELE_NUMMER', 16: 'B-LOCATION_ASSOSIATION', 17: 'B-PERSON_LASTNAME', 18: 'B-LOCATION_COUNTRY', 19: 'I-LOCATION_CITY', 20: 'I-TELE_NUMMER'}
         #self.model.config.id2label = labelsdict
+    #get entities for entity sim and for returning the entities 
     def getEntites(self,string):
         output = []
         out2 = []  
@@ -23,6 +25,8 @@ class BertModels():
                         out2.append((ent["start"],ent["end"], ent["entity_group"],ent["word"],"ML_BERT",ent["attributes"],start))
                 output.extend(gr)
         return output , out2
+
+    #meausre tokensize of string 
     def IsTokenToBig(self,string):
         ids = self.tokenizer(string,  max_length= 512 , truncation=True)["input_ids"]
         if(np.count_nonzero(ids) < 512 ):
@@ -31,7 +35,7 @@ class BertModels():
         if(len(string0) < len(string)):
             return True
         return False
-
+    #split string into packages for the Model cause tokensize must be <= 512
     def getStringPackages(self,string,model):
         strings=[]
         temp_string = string
@@ -48,6 +52,8 @@ class BertModels():
         strings.append((start,temp_string))
         return strings
 
+
+    #groups sub entities to main Entity
     def groupEntities(self,data, string,startpoint):
         entities = []
         ent = {"entity_group": "", "start":0, "end" :0 , "word": "" , "attributes" : [] }
@@ -95,11 +101,12 @@ class BertModels():
                     #add new attribute if its Person firt and than last  or the last or this one is a Assosiation opereator or the i is an Age and before was a person if Person first first than check simmaliary and isnt the same 
         return entities
     
+    #removes duplicates from sentece pairs
     def removeDuplicates(self,lst):
         temp = [tuple(sorted(sub)) for sub in lst]
         return list(set(temp))
 
-
+    #get sentence formatted for the  sim_ent model
     def get_Sentence(self,ent,sentecs,string):
         for i in sentecs:
             #print(i)
@@ -111,6 +118,8 @@ class BertModels():
                 return data[i["start"]:i["end"]+17]
         return "" 
 
+
+    # get senteces of text
     def predict_sentences(self,data,ignore=["O","SENTENCE_END"]):
             ent = []
             nlp = pipeline("ner",ignore_labels=ignore, model=self.sentence_model, tokenizer=self.tokenizer, aggregation_strategy ="max" )
@@ -121,13 +130,15 @@ class BertModels():
                     j["end"] = start+ j["end"]
                     ent.append(j)
             return ent
-
+    #calculate sim
     def get_sim(self,s1,s2):
         embeddings1 = self.sim_model.encode(s1, convert_to_tensor=True)
         embeddings2 = self.sim_model.encode(s2, convert_to_tensor=True)
         cosine_scores = util.pytorch_cos_sim(embeddings1, embeddings2)
         #print(cosine_scores)
         return float(cosine_scores[0])
+
+    #IE
     def analyse(self,string):
         train_sentences = []
         clean_sentences = []

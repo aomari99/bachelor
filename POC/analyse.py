@@ -5,10 +5,12 @@ from pdfminer.layout import LTTextContainer, LTChar
 import json
 from  model import  BertModels
 
+#load models if file gets imported
 model = BertModels()
 def getBoundsOfChar(bounds):
     return [(bounds[0],bounds[1]),(bounds[0],bounds[3]),(bounds[2],bounds[1]),(bounds[2],bounds[3])]
 
+#get Boundary of word 
 def getBounds(array):
     Bounds = []
     temppage = array[0][2]
@@ -34,6 +36,8 @@ def getBounds(array):
     if(len(boundobject) != 0):
        Bounds.append((boundobject,temppage))
     return Bounds 
+
+#convert Boundary of Word to XFDF Format    
 def Bounds_ToXFDF(bounds):
     bounds_new = []
     bound = {"coordinates" : "" , "page" : bounds[0][1] }
@@ -42,8 +46,12 @@ def Bounds_ToXFDF(bounds):
             bounds_new.append(bound)
     return bounds_new
 
+#for measuring processing time 
 from timeit import default_timer as timer
+
+#analyse PDF-Document
 def analyse(file):
+    #start measure time 
     start = timer()
     output_string = StringIO()
     output =[]
@@ -69,12 +77,15 @@ def analyse(file):
     #print(f"{len(output_string.getvalue())}/{len(output)}")
     
     #print(output_string.getvalue())
+    #get entities and sims scores 
     ent , sim = model.analyse(output_string.getvalue())
   
     for i in ent:
         #print(i)
         #print((output[i[6]:][i[0]])[0])
         #print((output[i[6]:][i[0]+len(i[3].rstrip())-1])[0])
+        #format entities 
         EntitysList.append( Entity( Bounds_ToXFDF(getBounds(output[i[6]:][i[0]:i[1]])), i[2], i[3],i[4],i[5] ).__dict__)
-    end = timer()
+    end = timer() # end meausure time 
+    #return data as json
     return( { "Entitys":  EntitysList , "Sims" : sim  , "calc_time": end - start })
