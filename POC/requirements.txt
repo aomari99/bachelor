@@ -1,0 +1,7 @@
+flask
+sentence-transformers
+numpy==1.19.5
+pdfminer.six==20201018
+transformers
+datasets
+seqeval

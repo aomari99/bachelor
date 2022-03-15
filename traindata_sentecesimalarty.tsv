@@ -1,0 +1,1319 @@
+sentence1	sentence2	simalarty
+Auf der Anklagebank: <Entity>Aberrahmane M. (24</Entity>) aus Tunesien und Mestafa B. (17) aus Algerien.	Auf der Anklagebank: Aberrahmane M. (24) aus Tunesien und <Entity>Mestafa B. (17</Entity>) aus Algerien.	0
+Der Generalbundesanwalt hat die ISIS-Rückkehrerin <Entity>Leonora M. (21</Entity>) aus Sachsen-	"In Syrien soll sie ein ranghohes Mitglied des ISIS-Geheimdienstes geheiratet haben: <Entity>Martin
+Lemke (30</Entity>) aus Zeitz (Burgenlandkreis)."	0
+Einer der Söhne wurde aus der <Entity>Villa</Entity> geführt	"Mit einem Polizei-Panzer rammten sie unter anderem den Zugang zur <Entity>Villa in
+Leverkusen</Entity> auf, sprengten die Eingangstür."	1
+Al-Zeins wohnen weiterhin in der <Entity>Villa</Entity>	"Mit einem Polizei-Panzer rammten sie unter anderem den Zugang zur <Entity>Villa in
+Leverkusen</Entity> auf, sprengten die Eingangstür."	1
+"<Entity>Mario B</Entity>. soll ihn während eines
+Trinkgelages mit der Faust zu Boden gebracht und ihm dann bis zu acht Mal mit „stampfenden
+Ausholbewegungen“ und schweren Stahlkappen-Schuhen auf den Kopf getreten haben."	"Der Verdacht fiel schnell auf <Entity>Mario B</Entity>., sieben Monate später begann der
+Totschlags-Prozess gegen ihn."	1
+"Der Torso des Monteurs wurde am 23. November 2020 in einer <Entity>Pankower Grünanlage</Entity>
+gefunden."	"Nach Informationen aus Justizkreisen wirft die Berliner
+Staatsanwaltschaft Lehrer Stefan R. (41) aus <Entity>Pankow</Entity> einen Sexualmord aus niedrigen
+Beweggründen vor."	0.5
+"Clan-Boss <Entity>Nasser Rammou</Entity>
+muss wieder in Haft"	"Urteil nach brutalen Angriffen auf Tschetschenen in Berlin
+Nasser <Entity>Rammou</Entity>"	1
+"<Entity>Edith Blum</Entity> an
+den schweren Schädelverletzungen und an Unterkühlung."	"<Entity>Edith Blum</Entity> soll am 13. Januar im Bereich der Treveris-Passage in der Innenstadt von Trier mit
+mehreren Leuten Alkohol getrunken haben."	1
+"An einer Kreuzung fährt Rentner <Entity>Michael W. (69</Entity>) mit seinem Jeep bei Grün los, Hamdi H.
+rammt ihn mit seinem Audi."	"Der Fall vom 1. Februar 2016: <Entity>Hamdi H</Entity>. fährt einen Audi A 6 TDI (225 PS), Marvin N. einen
+AMG-Mercedes (380 PS)."	0
+"Im 7er BMW raste Halil G. (41) am 29. Oktober 2020 vormittags 5,4 Kilometer durch die
+Bezirke <Entity>Kreuzberg</Entity> und Schöneberg. Verbotenes Kraftfahrzeugrennen, vorsätzliche Gefährdung
+des Straßenverkehrs, Unfallflucht, Fahren ohne Führerschein – dafür wird er verurteilt."	"Rotlicht-Verstoß Blücherstraße, die Polizei hängt sich mit Dashcam dran. <Entity>Mittenwalder</Entity>-,
+Fürbringer-, Zossener Straße."	0
+"Am 10. August 2021 beginnt der Mordprozess um den „Kannibalen von Pankow“
+vor dem <Entity>Berliner Landgericht</Entity>."	"Mantrailer-Hunde führten zu der Wohnung des Lehrers für Mathematik und Chemie an einer
+<Entity>Pankower Sekundarschule</Entity>."	0
+<Entity>Marvin</Entity> habe geschwiegen: „Er gab nur Gas.“	"Denn: Erst wurde wegen fahrlässiger Tötung gegen <Entity>Hamdi H</Entity>. ermittelt, dann gegen beide
+Fahrer wegen Totschlags."	0
+"Der Remmo-Clan ist in spektakuläre Millionen-Verbrechen verstrickt (Goldmünze
+<Entity>Bodemuseum</Entity>, Grünes Gewölbe Dresden)."	"Polizei sucht Spione  
+aus dem Grünen <Entity>Gewölbe</Entity>"	0
+"Clan-Boss Nasser Rammou (44, trotz anderer Schreibweise gehört er zum
+berüchtigten <Entity>Remmo</Entity>-Clan) kippte letztens vor Gericht um und kam ins Krankenhaus."	"Urteil nach brutalen Angriffen auf Tschetschenen in Berlin
+Nasser <Entity>Rammou</Entity>"	0
+"Die Bundesanwaltschaft wirft der jungen Frau aus <Entity>Breitenbach bei Sangerhausen</Entity> vor,
+Mitglied einer ausländischen Terrororganisation gewesen zu sein."	"Im Jahr 2015 hatte sich die 15-jährige Leonora M. unbemerkt von ihren Eltern radikalisiert, sie
+reiste nach <Entity>Syrien</Entity> aus und schloss sich dem Islamischen Staat an."	0
+<Entity>Leonora M</Entity>. mit ihrer Tochter in Syrien	Der Generalbundesanwalt hat die ISIS-Rückkehrerin <Entity>Leonora M. (21</Entity>) aus Sachsen-	1
+"Der Verdacht fiel schnell auf <Entity>Mario B</Entity>., sieben Monate später begann der
+Totschlags-Prozess gegen ihn."	"Es ist der 6. Februar 2018, eine Wohnung in der Falkenberger Chaussee (Berlin-
+Hohenschönhausen). Gerrit <Entity>S. (39</Entity>) liegt halbtot in seinem Blut."	0
+"Denn: Erst wurde wegen fahrlässiger Tötung gegen <Entity>Hamdi H</Entity>. ermittelt, dann gegen beide
+Fahrer wegen Totschlags."	Während der Staatsanwalt die Anklage verlas, starrte <Entity>Marvin N. (24</Entity>) auf den Tisch.	0
+Bei der Razzia im Juni wurde diese <Entity>Villa in Leverkusen</Entity> durchsucht, es kam zu mehreren Festnahmen	"Mit einem Polizei-Panzer rammten sie unter anderem den Zugang zur <Entity>Villa in
+Leverkusen</Entity> auf, sprengten die Eingangstür."	1
+"Der Remmo-Clan ist in spektakuläre Millionen-Verbrechen verstrickt (Goldmünze
+Bodemuseum, Grünes <Entity>Gewölbe</Entity> Dresden)."	"Die
+Angriffe seien „Vergeltung und Selbstjustiz“ gewesen für einen kurz zuvor erfolgten Streit an
+seinem Kiosk <Entity>in</Entity> der Wildenbruchstraße (Neukölln)."	0
+"Die inzwischen frühpensionierten Polizisten rasten rückwärts in das Schaufenster dieses <Entity>Bamberger
+Juweliers</Entity>"	Felix B. in Schutzkleidung der <Entity>Berliner Polizei</Entity>	0
+"Bei Ampelrot in den Gegenverkehr, Slalom in der
+Gneisenaustraße, Kollision. <Entity>Mehringdamm</Entity>/Yorckstraße, wieder Kollisionen."	"Rotlicht-Verstoß Blücherstraße, die Polizei hängt sich mit Dashcam dran. Mittenwalder-,
+Fürbringer<Entity>-</Entity>, Zossener Straße."	0
+"Die Leiche des Opfers soll der Deutsche anschließend noch in seiner Wohnung zerteilt und
+die Leichenteile an verschiedenen Orten <Entity>in Berlin</Entity> abgelegt haben."	"Nach Informationen aus Justizkreisen wirft die Berliner
+Staatsanwaltschaft Lehrer Stefan R. (41) aus <Entity>Pankow</Entity> einen Sexualmord aus niedrigen
+Beweggründen vor."	0
+"Edith Blum soll am 13. Januar im Bereich der <Entity>Treveris-</Entity>Passage in der Innenstadt von Trier mit
+mehreren Leuten Alkohol getrunken haben."	"Ein Zeuge entdeckte am 14. Januar 2021 die Leiche der Obdachlosen Edith Blum
+(63) zwischen Baucontainern auf dem Platz vor einem Obdachlosenheim in der
+<Entity>Luxemburger Straße in Trier (Rheinland-Pfalz</Entity>)."	0
+"Der Fall vom 1. Februar 2016: Hamdi H. fährt einen Audi A 6 TDI (225 PS), <Entity>Marvin N</Entity>. einen
+AMG-Mercedes (380 PS)."	"Mercedes-Beifahrerin <Entity>Olesya K. (22</Entity>) vor Gericht: „Ich war schockiert. Erstens über die
+Geschwindigkeit, zweitens über die roten Ampeln.“"	0
+"Der Remmo-Clan ist in spektakuläre Millionen-Verbrechen verstrickt (Goldmünze
+Bodemuseum, Grünes <Entity>Gewölbe</Entity> Dresden)."	"Urteil nach brutalen Angriffen auf Tschetschenen in <Entity>Berlin</Entity>
+Nasser Rammou"	0
+"Am 20. Dezember 2015 soll er Jean W. (52) in einer Wohnung <Entity>in der Dolgenseestraße
+(Berlin-Lichtenberg</Entity>) attackiert haben."	"Es ist der 6. Februar 2018, eine Wohnung in der <Entity>Falkenberger Chaussee (Berlin-
+Hohenschönhausen</Entity>). Gerrit S. (39) liegt halbtot in seinem Blut."	0
+<Entity>Mohamed M. (33</Entity>, li.) soll der Komplize vom Überfall auf die ältere Seniorin (93) gewesen sein.	Auf der Anklagebank: <Entity>Aberrahmane M. (24</Entity>) aus Tunesien und Mestafa B. (17) aus Algerien.	0
+"Am 13. Oktober 2017
+wurde die Ordnungswidrigkeit Autorennen in <Entity>Deutschland</Entity> zur Straftat."	Der Dauer-Raser aus <Entity>Neukölln</Entity> hat alles zugegeben.	0
+"Der Afrikaner reiste im März 2015 als Flüchtling nach
+Deutschland ein, lebte zunächst im <Entity>Rhein-Hunsrück</Entity>-Kreis."	"Edith Blum soll am 13. Januar im Bereich der <Entity>Treveris-</Entity>Passage in der Innenstadt von Trier mit
+mehreren Leuten Alkohol getrunken haben."	0
+"Am 8. November 2020 fanden Spaziergänger im Buchholzer Graben/Ecke Schönerlinder
+<Entity>Straße</Entity> einen männlichen Oberschenkelknochen ohne Gewebe."	"Nach Informationen aus Justizkreisen wirft die Berliner
+Staatsanwaltschaft Lehrer Stefan R. (41) aus <Entity>Pankow</Entity> einen Sexualmord aus niedrigen
+Beweggründen vor."	0
+"Anfang Juni stürmte die Polizei die <Entity>Al-Zein-Villa in Leverkusen</Entity>,
+verhaftete vier Clan-Mitglieder."	"Mit einem Polizei-Panzer rammten sie unter anderem den Zugang zur <Entity>Villa in
+Leverkusen</Entity> auf, sprengten die Eingangstür."	1
+"Der Torso des Monteurs wurde am 23. November 2020 in einer <Entity>Pankower Grünanlage</Entity>
+gefunden."	"Er soll am 6. September 2020 den Hochleitungsbau-Monteur Stefan T. (44) aus <Entity>Lichtenberg</Entity>
+getötet haben."	0
+Der Dauer-Raser aus <Entity>Neukölln</Entity> hat alles zugegeben.	"Vorm <Entity>S-Bahnhof</Entity> Yorckstraße in den Gegenverkehr.
+Baustellenschild umgenietet, Auto demoliert. Goebenstraße, Bülowstraße – dort hängt er die
+Verfolger ab."	0
+Der 7. November 2020, <Entity>Bahnhof Gesundbrunnen (Wedding</Entity>).	"Der Remmo-Clan ist in spektakuläre Millionen-Verbrechen verstrickt (Goldmünze
+Bodemuseum, Grünes <Entity>Gewölbe</Entity> Dresden)."	0
+"Bei Ampelrot in den Gegenverkehr, Slalom in der
+<Entity>Gneisenaustraße</Entity>, Kollision. Mehringdamm/Yorckstraße, wieder Kollisionen."	"Rotlicht-Verstoß Blücherstraße, die Polizei hängt sich mit Dashcam dran. Mittenwalder-,
+Fürbringer-, <Entity>Zossener Straße</Entity>."	0
+"An einer Kreuzung fährt Rentner <Entity>Michael W. (69</Entity>) mit seinem Jeep bei Grün los, Hamdi H.
+rammt ihn mit seinem Audi."	"An einer Kreuzung fährt Rentner Michael W. (69) mit seinem Jeep bei Grün los, <Entity>Hamdi H</Entity>.
+rammt ihn mit seinem Audi."	0
+Der Dauer-Raser aus <Entity>Neukölln</Entity> hat alles zugegeben.	"Rotlicht-Verstoß Blücherstraße, die Polizei hängt sich mit Dashcam dran. Mittenwalder-,
+Fürbringer-, <Entity>Zossener Straße</Entity>."	0
+"Auch der Verteidiger von <Entity>Hamdi H</Entity>. sagt: „Das Rennen war ihm nicht ansatzweise wichtig
+genug, um den Tod eines Menschen billigend in Kauf zu nehmen.“"	Während der Staatsanwalt die Anklage verlas, starrte <Entity>Marvin N. (24</Entity>) auf den Tisch.	0
+"Im 7er BMW raste Halil G. (41) am 29. Oktober 2020 vormittags 5,4 Kilometer durch die
+Bezirke <Entity>Kreuzberg</Entity> und Schöneberg. Verbotenes Kraftfahrzeugrennen, vorsätzliche Gefährdung
+des Straßenverkehrs, Unfallflucht, Fahren ohne Führerschein – dafür wird er verurteilt."	"Rotlicht-Verstoß <Entity>Blücherstraße</Entity>, die Polizei hängt sich mit Dashcam dran. Mittenwalder-,
+Fürbringer-, Zossener Straße."	0
+"Im 7er BMW raste Halil G. (41) am 29. Oktober 2020 vormittags 5,4 Kilometer durch die
+Bezirke <Entity>Kreuzberg</Entity> und Schöneberg. Verbotenes Kraftfahrzeugrennen, vorsätzliche Gefährdung
+des Straßenverkehrs, Unfallflucht, Fahren ohne Führerschein – dafür wird er verurteilt."	"Im 7er BMW raste Halil G. (41) am 29. Oktober 2020 vormittags 5,4 Kilometer durch die
+Bezirke Kreuzberg und <Entity>Schöneberg</Entity>. Verbotenes Kraftfahrzeugrennen, vorsätzliche Gefährdung
+des Straßenverkehrs, Unfallflucht, Fahren ohne Führerschein – dafür wird er verurteilt."	0
+"Der Haupt-Tatverdächtige <Entity>Badia Al-Zein</Entity> und sein älterer Sohn Sehmus (28) sitzen weiter
+in U-Haft."	"Jetzt kam der jüngere Sohn <Entity>Mohamed (24</Entity>) aus der U-Haft
+frei!"	0
+"Rotlicht-Verstoß Blücherstraße, die Polizei hängt sich mit Dashcam dran. Mittenwalder-,
+Fürbringer<Entity>-</Entity>, Zossener Straße."	"Vorm S-Bahnhof Yorckstraße in den Gegenverkehr.
+Baustellenschild umgenietet, Auto demoliert. Goebenstraße, <Entity>Bülowstraße</Entity> – dort hängt er die
+Verfolger ab."	0
+"Der gelernte Schweißer hatte sich bereits 2014
+nach <Entity>Syrien</Entity> abgesetzt und war in der Hierarchie der Terrororganisation aufgestiegen."	"Die Bundesanwaltschaft wirft der jungen Frau aus <Entity>Breitenbach bei Sangerhausen</Entity> vor,
+Mitglied einer ausländischen Terrororganisation gewesen zu sein."	0
+"Am 8. November 2020 fanden Spaziergänger im <Entity>Buchholzer Graben/Ecke</Entity> Schönerlinder
+Straße einen männlichen Oberschenkelknochen ohne Gewebe."	"Die Leiche des Opfers soll der Deutsche anschließend noch in seiner Wohnung zerteilt und
+die Leichenteile an verschiedenen Orten <Entity>in Berlin</Entity> abgelegt haben."	0
+Der Dauer-Raser aus <Entity>Neukölln</Entity> hat alles zugegeben.	"Rotlicht-Verstoß Blücherstraße, die Polizei hängt sich mit Dashcam dran. <Entity>Mittenwalder</Entity>-,
+Fürbringer-, Zossener Straße."	0
+"Rotlicht-Verstoß Blücherstraße, die Polizei hängt sich mit Dashcam dran. Mittenwalder-,
+Fürbringer-, <Entity>Zossener Straße</Entity>."	"Rotlicht-Verstoß Blücherstraße, die Polizei hängt sich mit Dashcam dran. Mittenwalder-,
+Fürbringer<Entity>-</Entity>, Zossener Straße."	0
+Er könne das Urteil anfechten, belehrte ihn Richter <Entity>Schwanitz</Entity>.	"Urteil nach brutalen Angriffen auf Tschetschenen in Berlin
+Nasser <Entity>Rammou</Entity>"	0
+"<Entity>Julius Everling</Entity> begründet: „Ich gebe Ihnen die
+Chance, sich selbst zu stellen zur Strafverbüßung.“"	"„Das Video aus der Dashcam erinnert an das Videospiel Fast&Furious“, sagt <Entity>Andreas
+Winkelmann (55</Entity>)."	0
+"Am 13. Oktober 2017
+wurde die Ordnungswidrigkeit Autorennen in <Entity>Deutschland</Entity> zur Straftat."	"Rotlicht-Verstoß <Entity>Blücherstraße</Entity>, die Polizei hängt sich mit Dashcam dran. Mittenwalder-,
+Fürbringer-, Zossener Straße."	0
+"<Entity>Mario B</Entity>. soll ihn während eines
+Trinkgelages mit der Faust zu Boden gebracht und ihm dann bis zu acht Mal mit „stampfenden
+Ausholbewegungen“ und schweren Stahlkappen-Schuhen auf den Kopf getreten haben."	"Es ist der 6. Februar 2018, eine Wohnung in der Falkenberger Chaussee (Berlin-
+Hohenschönhausen). Gerrit <Entity>S. (39</Entity>) liegt halbtot in seinem Blut."	0
+"Am 13. Oktober 2017
+wurde die Ordnungswidrigkeit Autorennen in <Entity>Deutschland</Entity> zur Straftat."	"Vorm S-Bahnhof Yorckstraße in den Gegenverkehr.
+Baustellenschild umgenietet, Auto demoliert. <Entity>Goebenstraße</Entity>, Bülowstraße – dort hängt er die
+Verfolger ab."	0
+Der Dauer-Raser aus <Entity>Neukölln</Entity> hat alles zugegeben.	"Vorm S-Bahnhof Yorckstraße in den Gegenverkehr.
+Baustellenschild umgenietet, Auto demoliert. <Entity>Goebenstraße</Entity>, Bülowstraße – dort hängt er die
+Verfolger ab."	0
+"Der Afrikaner reiste im März 2015 als Flüchtling nach
+Deutschland ein, lebte zunächst im <Entity>Rhein-Hunsrück</Entity>-Kreis."	"Ein Zeuge entdeckte am 14. Januar 2021 die Leiche der Obdachlosen Edith Blum
+(63) zwischen Baucontainern auf dem Platz vor einem Obdachlosenheim in der
+<Entity>Luxemburger Straße in Trier (Rheinland-Pfalz</Entity>)."	0
+"Beide sollen dann
+zur Kreisverkehr-Baustelle am Kopf der <Entity>Römerbrücke in Trier-West</Entity> gegangen sein, um zu
+Alkohol zu trinken."	"Ein Zeuge entdeckte am 14. Januar 2021 die Leiche der Obdachlosen Edith Blum
+(63) zwischen Baucontainern auf dem Platz vor einem Obdachlosenheim in der
+<Entity>Luxemburger Straße in Trier (Rheinland-Pfalz</Entity>)."	0
+Das berichtet die in Halle erscheinende <Entity>Mitteldeutsche Zeitung</Entity> (Mittwochsausgabe).	"Im Jahr 2015 hatte sich die 15-jährige Leonora M. unbemerkt von ihren Eltern radikalisiert, sie
+reiste nach Syrien aus und schloss sich dem <Entity>Islamischen Staat</Entity> an."	0
+"Er ist so schwerkriminell, dass er seit der letzten Haftentlassung im Februar 2018 eine
+elektronische Fußfessel tragen muss (passiert selten in <Entity>Deutschland</Entity>)."	"Urteil nach brutalen Angriffen auf Tschetschenen in <Entity>Berlin</Entity>
+Nasser Rammou"	0
+"Die
+nun angeklagte <Entity>Leonora M</Entity>. soll laut Ermittlern seine Drittfrau gewesen sein."	"Laut eines Haftbefehls gegen <Entity>M</Entity>. aus dem Jahr 2020 soll ihr Ehemann 2015 eine Frau als
+Sklavin gekauft haben, um diese zusammen mit ihren zwei Kindern „gewinnbringend“
+weiterzuverkaufen."	1
+"Der Anwalt von <Entity>Marvin N</Entity>. sagt, aus seiner Sicht handle es sich aber rechtlich nur um eine
+„übermäßige Straßennutzung“, die als Ordnungswidrigkeit geahndet werde (400 Euro und ein
+Monat Fahrverbot)."	"Der Fall vom 1. Februar 2016: <Entity>Hamdi H</Entity>. fährt einen Audi A 6 TDI (225 PS), Marvin N. einen
+AMG-Mercedes (380 PS)."	1
+"Bei Ampelrot in den Gegenverkehr, Slalom in der
+Gneisenaustraße, Kollision. <Entity>Mehringdamm</Entity>/Yorckstraße, wieder Kollisionen."	"Im 7er BMW raste Halil G. (41) am 29. Oktober 2020 vormittags 5,4 Kilometer durch die
+Bezirke <Entity>Kreuzberg</Entity> und Schöneberg. Verbotenes Kraftfahrzeugrennen, vorsätzliche Gefährdung
+des Straßenverkehrs, Unfallflucht, Fahren ohne Führerschein – dafür wird er verurteilt."	0
+"Am 8. November 2020 fanden Spaziergänger im <Entity>Buchholzer Graben/Ecke</Entity> Schönerlinder
+Straße einen männlichen Oberschenkelknochen ohne Gewebe."	"Er soll am 6. September 2020 den Hochleitungsbau-Monteur Stefan T. (44) aus <Entity>Lichtenberg</Entity>
+getötet haben."	0
+"<Entity>Mario B</Entity>. wird festgenommen und kommt
+in Untersuchungshaft."	"Der Verdacht fiel schnell auf <Entity>Mario B</Entity>., sieben Monate später begann der
+Totschlags-Prozess gegen ihn."	1
+"<Entity>Edith Blum</Entity> soll am 13. Januar im Bereich der Treveris-Passage in der Innenstadt von Trier mit
+mehreren Leuten Alkohol getrunken haben."	"Gegen 22 Uhr traf sie in der Nähe der
+Obdachlosenunterkunft „Benedikt-<Entity>Labre</Entity>-Haus“ auf den Angeschuldigten."	0
+"Der Afrikaner reiste im März 2015 als Flüchtling nach
+<Entity>Deutschland</Entity> ein, lebte zunächst im Rhein-Hunsrück-Kreis."	"Edith Blum soll am 13. Januar im Bereich der <Entity>Treveris-</Entity>Passage in der Innenstadt von Trier mit
+mehreren Leuten Alkohol getrunken haben."	0
+"Trotzdem verlässt <Entity>Halil G. (41</Entity>) als freier Mann die
+Untersuchungshaft"	"„Das Video aus der Dashcam erinnert an das Videospiel Fast&Furious“, sagt <Entity>Andreas
+Winkelmann (55</Entity>)."	0
+"Im Jahr 2015 hatte sich die 15-jährige <Entity>Leonora M</Entity>. unbemerkt von ihren Eltern radikalisiert, sie
+reiste nach Syrien aus und schloss sich dem Islamischen Staat an."	"In Syrien soll sie ein ranghohes Mitglied des ISIS-Geheimdienstes geheiratet haben: <Entity>Martin
+Lemke (30</Entity>) aus Zeitz (Burgenlandkreis)."	0
+"Das <Entity>Landgericht</Entity> habe inzwischen einem Antrag der Staatsanwaltschaft auf
+Wiederaufnahme des Verfahrens als zulässig erachtet, sagte ein Gerichtssprecher."	"Weil der
+31-Jährige Beschwerde einlegte, müsse nun das <Entity>Kammergericht</Entity> entscheiden."	0
+Das berichtet die in <Entity>Halle</Entity> erscheinende Mitteldeutsche Zeitung (Mittwochsausgabe).	"In Syrien soll sie ein ranghohes Mitglied des ISIS-Geheimdienstes geheiratet haben: Martin
+Lemke (30) aus <Entity>Zeitz (Burgenlandkreis</Entity>)."	0
+"Am 13. Oktober 2017
+wurde die Ordnungswidrigkeit Autorennen in <Entity>Deutschland</Entity> zur Straftat."	"Im 7er BMW raste Halil G. (41) am 29. Oktober 2020 vormittags 5,4 Kilometer durch die
+Bezirke Kreuzberg und <Entity>Schöneberg</Entity>. Verbotenes Kraftfahrzeugrennen, vorsätzliche Gefährdung
+des Straßenverkehrs, Unfallflucht, Fahren ohne Führerschein – dafür wird er verurteilt."	0
+Der Staat wurde im Grundbuch der <Entity>Villa</Entity> direkt nach der Sparkasse Leverkusen eingetragen.	Einer der Söhne wurde aus der <Entity>Villa</Entity> geführt	1
+"Bei Ampelrot in den Gegenverkehr, Slalom in der
+Gneisenaustraße, Kollision. <Entity>Mehringdamm</Entity>/Yorckstraße, wieder Kollisionen."	"Vorm S-Bahnhof Yorckstraße in den Gegenverkehr.
+Baustellenschild umgenietet, Auto demoliert. Goebenstraße, <Entity>Bülowstraße</Entity> – dort hängt er die
+Verfolger ab."	0
+<Entity>Marvin</Entity> habe geschwiegen: „Er gab nur Gas.“	"Der Fall vom 1. Februar 2016: <Entity>Hamdi H</Entity>. fährt einen Audi A 6 TDI (225 PS), Marvin N. einen
+AMG-Mercedes (380 PS)."	0
+"Aber nicht <Entity>Felix B.
+(31</Entity>) und sein Kollege David S. (31)!"	„Es ging uns um den Kick“, begründet <Entity>David S. (31</Entity>) die Überfälle	0
+"Im 7er BMW raste Halil G. (41) am 29. Oktober 2020 vormittags 5,4 Kilometer durch die
+Bezirke Kreuzberg und <Entity>Schöneberg</Entity>. Verbotenes Kraftfahrzeugrennen, vorsätzliche Gefährdung
+des Straßenverkehrs, Unfallflucht, Fahren ohne Führerschein – dafür wird er verurteilt."	"Rotlicht-Verstoß Blücherstraße, die Polizei hängt sich mit Dashcam dran. <Entity>Mittenwalder</Entity>-,
+Fürbringer-, Zossener Straße."	0
+"Clan-Boss Nasser Rammou (44, trotz anderer Schreibweise gehört er zum
+berüchtigten <Entity>Remmo</Entity>-Clan) kippte letztens vor Gericht um und kam ins Krankenhaus."	„Das ist als rassistische Tat zu werten“, sagt Amtsrichter <Entity>Carsten Schwanitz</Entity>.	0
+"Rotlicht-Verstoß <Entity>Blücherstraße</Entity>, die Polizei hängt sich mit Dashcam dran. Mittenwalder-,
+Fürbringer-, Zossener Straße."	"Rotlicht-Verstoß Blücherstraße, die Polizei hängt sich mit Dashcam dran. Mittenwalder-,
+Fürbringer<Entity>-</Entity>, Zossener Straße."	0
+"Die
+nun angeklagte <Entity>Leonora M</Entity>. soll laut Ermittlern seine Drittfrau gewesen sein."	"Generalbundesanwalt klagt
+ISIS-Braut <Entity>Leonora M</Entity>. an"	1
+"Es ist der 6. Februar 2018, eine Wohnung in der Falkenberger Chaussee (Berlin-
+Hohenschönhausen). Gerrit <Entity>S. (39</Entity>) liegt halbtot in seinem Blut."	Neben dem aktuellen Prozess könnte ein älterer gegen <Entity>Mario B</Entity>. wieder aufgenommen werden.	0
+"Beide sollen dann
+zur Kreisverkehr-Baustelle am Kopf der <Entity>Römerbrücke in Trier-West</Entity> gegangen sein, um zu
+Alkohol zu trinken."	"Der Afrikaner reiste im März 2015 als Flüchtling nach
+Deutschland ein, lebte zunächst im <Entity>Rhein-Hunsrück</Entity>-Kreis."	0
+"Clan-Boss <Entity>Nasser Rammou (44</Entity>, trotz anderer Schreibweise gehört er zum
+berüchtigten Remmo-Clan) kippte letztens vor Gericht um und kam ins Krankenhaus."	"Urteil nach brutalen Angriffen auf Tschetschenen in Berlin
+Nasser <Entity>Rammou</Entity>"	0.8
+"Im 7er BMW raste Halil G. (41) am 29. Oktober 2020 vormittags 5,4 Kilometer durch die
+Bezirke Kreuzberg und <Entity>Schöneberg</Entity>. Verbotenes Kraftfahrzeugrennen, vorsätzliche Gefährdung
+des Straßenverkehrs, Unfallflucht, Fahren ohne Führerschein – dafür wird er verurteilt."	"Rotlicht-Verstoß Blücherstraße, die Polizei hängt sich mit Dashcam dran. Mittenwalder-,
+Fürbringer-, <Entity>Zossener Straße</Entity>."	0
+"Rotlicht-Verstoß Blücherstraße, die Polizei hängt sich mit Dashcam dran. <Entity>Mittenwalder</Entity>-,
+Fürbringer-, Zossener Straße."	"Vorm S-Bahnhof Yorckstraße in den Gegenverkehr.
+Baustellenschild umgenietet, Auto demoliert. Goebenstraße, <Entity>Bülowstraße</Entity> – dort hängt er die
+Verfolger ab."	0
+"Am 13. Oktober 2017
+wurde die Ordnungswidrigkeit Autorennen in <Entity>Deutschland</Entity> zur Straftat."	"Rotlicht-Verstoß Blücherstraße, die Polizei hängt sich mit Dashcam dran. Mittenwalder-,
+Fürbringer-, <Entity>Zossener Straße</Entity>."	0
+<Entity>Marvin</Entity> habe geschwiegen: „Er gab nur Gas.“	Während der Staatsanwalt die Anklage verlas, starrte <Entity>Marvin N. (24</Entity>) auf den Tisch.	1
+"Der Afrikaner reiste im März 2015 als Flüchtling nach
+Deutschland ein, lebte zunächst im <Entity>Rhein-Hunsrück</Entity>-Kreis."	"Edith Blum soll am 13. Januar im Bereich der Treveris-Passage <Entity>in der Innenstadt von Trier</Entity> mit
+mehreren Leuten Alkohol getrunken haben."	0
+"Rotlicht-Verstoß Blücherstraße, die Polizei hängt sich mit Dashcam dran. <Entity>Mittenwalder</Entity>-,
+Fürbringer-, Zossener Straße."	"Vorm S-Bahnhof Yorckstraße in den Gegenverkehr.
+Baustellenschild umgenietet, Auto demoliert. <Entity>Goebenstraße</Entity>, Bülowstraße – dort hängt er die
+Verfolger ab."	0
+Am Donnerstag begann der Prozess gegen <Entity>Mario B. (31</Entity>) am Berliner Landgericht.	"Der Verdacht fiel schnell auf <Entity>Mario B</Entity>., sieben Monate später begann der
+Totschlags-Prozess gegen ihn."	1
+"Rotlicht-Verstoß <Entity>Blücherstraße</Entity>, die Polizei hängt sich mit Dashcam dran. Mittenwalder-,
+Fürbringer-, Zossener Straße."	"Vorm <Entity>S-Bahnhof</Entity> Yorckstraße in den Gegenverkehr.
+Baustellenschild umgenietet, Auto demoliert. Goebenstraße, Bülowstraße – dort hängt er die
+Verfolger ab."	0
+"Der Remmo-Clan ist in spektakuläre Millionen-Verbrechen verstrickt (Goldmünze
+<Entity>Bodemuseum</Entity>, Grünes Gewölbe Dresden)."	"Urteil nach brutalen Angriffen auf Tschetschenen in <Entity>Berlin</Entity>
+Nasser Rammou"	0
+"Der Fall vom 1. Februar 2016: <Entity>Hamdi H</Entity>. fährt einen Audi A 6 TDI (225 PS), Marvin N. einen
+AMG-Mercedes (380 PS)."	"Mercedes-Beifahrerin <Entity>Olesya K. (22</Entity>) vor Gericht: „Ich war schockiert. Erstens über die
+Geschwindigkeit, zweitens über die roten Ampeln.“"	0
+"Rotlicht-Verstoß <Entity>Blücherstraße</Entity>, die Polizei hängt sich mit Dashcam dran. Mittenwalder-,
+Fürbringer-, Zossener Straße."	"Rotlicht-Verstoß Blücherstraße, die Polizei hängt sich mit Dashcam dran. <Entity>Mittenwalder</Entity>-,
+Fürbringer-, Zossener Straße."	0
+Dann habe er selbst mit dem Hammer zugeschlagen, sagte <Entity>Werner M</Entity>.	"Im Jahr 2017 hatte der 53-jährige <Entity>Werner M</Entity>. in Berlin-Pankow seinen
+Nachbar Christian N. (68) mit einem Hammer erschlagen und die Leiche teilweise zerteilt."	1
+Der Generalbundesanwalt hat die ISIS-Rückkehrerin <Entity>Leonora M. (21</Entity>) aus Sachsen-	"Die
+nun angeklagte <Entity>Leonora M</Entity>. soll laut Ermittlern seine Drittfrau gewesen sein."	1
+<Entity>Hamdi H. (27</Entity>) weinte die ganze Zeit.	"Mercedes-Beifahrerin <Entity>Olesya K. (22</Entity>) vor Gericht: „Ich war schockiert. Erstens über die
+Geschwindigkeit, zweitens über die roten Ampeln.“"	0
+"Die Bundesanwaltschaft wirft der jungen Frau aus <Entity>Breitenbach bei Sangerhausen</Entity> vor,
+Mitglied einer ausländischen Terrororganisation gewesen zu sein."	Leonora M. mit ihrer Tochter in <Entity>Syrien</Entity>	0
+"An einer Kreuzung fährt Rentner Michael W. (69) mit seinem Jeep bei Grün los, <Entity>Hamdi H</Entity>.
+rammt ihn mit seinem Audi."	"Der Fall vom 1. Februar 2016: <Entity>Hamdi H</Entity>. fährt einen Audi A 6 TDI (225 PS), Marvin N. einen
+AMG-Mercedes (380 PS)."	1
+Die Polizei spürte Alex S. (32) in einer Wohnung <Entity>in Mönchengladbach</Entity> auf	"Er war Ende Juni
+blutüberströmt und lebensgefährlich verletzt nachts auf einem <Entity>Feldweg in Mönchengladbach</Entity>
+aufgefunden worden."	0.3
+Bisher schweigt <Entity>Mario B</Entity>. zu den Vorwürfen.	"Der Verdacht fiel schnell auf <Entity>Mario B</Entity>., sieben Monate später begann der
+Totschlags-Prozess gegen ihn."	1
+"Die
+Angriffe seien „Vergeltung und Selbstjustiz“ gewesen für einen kurz zuvor erfolgten Streit an
+seinem Kiosk <Entity>in</Entity> der Wildenbruchstraße (Neukölln)."	"Polizei sucht Spione  
+aus dem Grünen <Entity>Gewölbe</Entity>"	0
+"Rotlicht-Verstoß Blücherstraße, die Polizei hängt sich mit Dashcam dran. <Entity>Mittenwalder</Entity>-,
+Fürbringer-, Zossener Straße."	"Vorm <Entity>S-Bahnhof</Entity> Yorckstraße in den Gegenverkehr.
+Baustellenschild umgenietet, Auto demoliert. Goebenstraße, Bülowstraße – dort hängt er die
+Verfolger ab."	0
+"Bei Ampelrot in den Gegenverkehr, Slalom in der
+<Entity>Gneisenaustraße</Entity>, Kollision. Mehringdamm/Yorckstraße, wieder Kollisionen."	"Bei Ampelrot in den Gegenverkehr, Slalom in der
+Gneisenaustraße, Kollision. <Entity>Mehringdamm</Entity>/Yorckstraße, wieder Kollisionen."	0
+Al-Zeins wohnen weiterhin in der <Entity>Villa</Entity>	Bei der Razzia im Juni wurde diese <Entity>Villa in Leverkusen</Entity> durchsucht, es kam zu mehreren Festnahmen	0.8
+"Im Jahr 2015 hatte sich die 15-jährige <Entity>Leonora M</Entity>. unbemerkt von ihren Eltern radikalisiert, sie
+reiste nach Syrien aus und schloss sich dem Islamischen Staat an."	"Laut eines Haftbefehls gegen <Entity>M</Entity>. aus dem Jahr 2020 soll ihr Ehemann 2015 eine Frau als
+Sklavin gekauft haben, um diese zusammen mit ihren zwei Kindern „gewinnbringend“
+weiterzuverkaufen."	0.2
+<Entity>Badia Al-Zein</Entity>, seine beiden Söhne und seine Frau wurden verhaftet.	"Jetzt kam der jüngere Sohn <Entity>Mohamed (24</Entity>) aus der U-Haft
+frei!"	0
+"Clan-Boss <Entity>Nasser Rammou (44</Entity>, trotz anderer Schreibweise gehört er zum
+berüchtigten Remmo-Clan) kippte letztens vor Gericht um und kam ins Krankenhaus."	Clan-Boss <Entity>Nasser Rammou</Entity> schwieg im Prozess.	1
+"Im 7er BMW raste <Entity>Halil G. (41</Entity>) am 29. Oktober 2020 vormittags 5,4 Kilometer durch die
+Bezirke Kreuzberg und Schöneberg. Verbotenes Kraftfahrzeugrennen, vorsätzliche Gefährdung
+des Straßenverkehrs, Unfallflucht, Fahren ohne Führerschein – dafür wird er verurteilt."	Seit Ende Mai sitzt <Entity>Halil G</Entity>. in U-Haft.	1
+"Das ist in <Entity>Deutschland</Entity> bisher einmalig, denn in vergleichbaren Fällen ist maximal wegen
+fahrlässiger Tötung angeklagt worden, Höchststrafe fünf Jahre."	"„Durch die Wucht wurde das Fahrzeug um die Hoch-, Längs-
+und Querachse verdreht, auf eine Geschwindigkeit von mindestens 60 Stundenkilometer
+quer beschleunigt und 72 Meter in Richtung <Entity>Wittenbergplatz</Entity> geschleudert“, so die
+Anklage."	0
+"Im 7er BMW raste Halil G. (41) am 29. Oktober 2020 vormittags 5,4 Kilometer durch die
+Bezirke <Entity>Kreuzberg</Entity> und Schöneberg. Verbotenes Kraftfahrzeugrennen, vorsätzliche Gefährdung
+des Straßenverkehrs, Unfallflucht, Fahren ohne Führerschein – dafür wird er verurteilt."	"Vorm S-Bahnhof Yorckstraße in den Gegenverkehr.
+Baustellenschild umgenietet, Auto demoliert. <Entity>Goebenstraße</Entity>, Bülowstraße – dort hängt er die
+Verfolger ab."	0
+<Entity>Hamdi H. (27</Entity>) weinte die ganze Zeit.	"Staatsanwalt <Entity>Christian</Entity> Fröhlich: „Wir haben geprüft, ob bedingter Tötungsvorsatz bei dem
+Rennen vorlag. Wir haben Anhaltspunkte dafür.“"	0
+<Entity>Leonora M</Entity>. mit ihrer Tochter in Syrien	"Im Jahr 2015 hatte sich die 15-jährige <Entity>Leonora M</Entity>. unbemerkt von ihren Eltern radikalisiert, sie
+reiste nach Syrien aus und schloss sich dem Islamischen Staat an."	1
+"Blutüberströmt schleppte sich das Opfer noch aus dem Hausflur, mehrfach war
+auf den Ungarn <Entity>Balazs B. (33</Entity>) eingestochen worden."	"Ein Bekannter des ungarischen Opfers berichtete BILD im Mai: „Die Beiden sollen sich über
+ein Dating-Portal kennengelernt haben. <Entity>Balasz</Entity> trug gern Frauenkleider, ist ein
+Transvestit.“"	1
+"<Entity>Nasser Rammou</Entity> saß 15 Jahre, also ein Drittel seines
+Lebens, im Gefängnis, meist wegen Drogendelikten."	Clan-Boss <Entity>Nasser Rammou</Entity> schwieg im Prozess.	1
+"Der Verdacht fiel schnell auf <Entity>Mario B</Entity>., sieben Monate später begann der
+Totschlags-Prozess gegen ihn."	Neben dem aktuellen Prozess könnte ein älterer gegen <Entity>Mario B</Entity>. wieder aufgenommen werden.	1
+"Bei Ampelrot in den Gegenverkehr, Slalom in der
+<Entity>Gneisenaustraße</Entity>, Kollision. Mehringdamm/Yorckstraße, wieder Kollisionen."	"Rotlicht-Verstoß Blücherstraße, die Polizei hängt sich mit Dashcam dran. Mittenwalder-,
+Fürbringer<Entity>-</Entity>, Zossener Straße."	0
+Der Generalbundesanwalt hat die ISIS-Rückkehrerin <Entity>Leonora M. (21</Entity>) aus Sachsen-	"Laut eines Haftbefehls gegen <Entity>M</Entity>. aus dem Jahr 2020 soll ihr Ehemann 2015 eine Frau als
+Sklavin gekauft haben, um diese zusammen mit ihren zwei Kindern „gewinnbringend“
+weiterzuverkaufen."	1
+Der Dauer-Raser aus <Entity>Neukölln</Entity> hat alles zugegeben.	"Im 7er BMW raste Halil G. (41) am 29. Oktober 2020 vormittags 5,4 Kilometer durch die
+Bezirke Kreuzberg und <Entity>Schöneberg</Entity>. Verbotenes Kraftfahrzeugrennen, vorsätzliche Gefährdung
+des Straßenverkehrs, Unfallflucht, Fahren ohne Führerschein – dafür wird er verurteilt."	0
+Der 7. November 2020, <Entity>Bahnhof Gesundbrunnen (Wedding</Entity>).	"Der Remmo-Clan ist in spektakuläre Millionen-Verbrechen verstrickt (Goldmünze
+<Entity>Bodemuseum</Entity>, Grünes Gewölbe Dresden)."	0
+"Aber nicht <Entity>Felix B.
+(31</Entity>) und sein Kollege David S. (31)!"	"Aber nicht Felix B.
+(31) und sein Kollege <Entity>David S. (31</Entity>)!"	0
+"Am 20. Dezember 2015 soll er <Entity>Jean W. (52</Entity>) in einer Wohnung in der Dolgenseestraße
+(Berlin-Lichtenberg) attackiert haben."	Bisher schweigt <Entity>Mario B</Entity>. zu den Vorwürfen.	0
+Der 7. November 2020, <Entity>Bahnhof Gesundbrunnen (Wedding</Entity>).	"Urteil nach brutalen Angriffen auf Tschetschenen in <Entity>Berlin</Entity>
+Nasser Rammou"	0
+<Entity>Badia Al-Zein</Entity>, seine beiden Söhne und seine Frau wurden verhaftet.	"Der Haupt-Tatverdächtige <Entity>Badia Al-Zein</Entity> und sein älterer Sohn Sehmus (28) sitzen weiter
+in U-Haft."	1
+Seit Ende Mai sitzt <Entity>Halil G</Entity>. in U-Haft.	"„Das Video aus der Dashcam erinnert an das Videospiel Fast&Furious“, sagt <Entity>Andreas
+Winkelmann (55</Entity>)."	0
+"Die Mordkommission nahm den Gesuchten am Mittwochabend in einer Wohnung <Entity>in
+Mönchengladbach</Entity> fest."	Die Polizei spürte Alex S. (32) in einer Wohnung <Entity>in Mönchengladbach</Entity> auf	1
+<Entity>Mohamed M. (33</Entity>, li.) soll der Komplize vom Überfall auf die ältere Seniorin (93) gewesen sein.	"Feiger Sex-Gangster und
+
+Komplize vor Gericht
+
+<Entity>Mestafa B. (17</Entity>, li.) wird in Handschellen ins Gericht geführt."	0
+"<Entity>Edith Blum</Entity> an
+den schweren Schädelverletzungen und an Unterkühlung."	"Gegen 22 Uhr traf sie in der Nähe der
+Obdachlosenunterkunft „Benedikt-<Entity>Labre</Entity>-Haus“ auf den Angeschuldigten."	0
+"Denn: Erst wurde wegen fahrlässiger Tötung gegen <Entity>Hamdi H</Entity>. ermittelt, dann gegen beide
+Fahrer wegen Totschlags."	"Der Fall vom 1. Februar 2016: Hamdi H. fährt einen Audi A 6 TDI (225 PS), <Entity>Marvin N</Entity>. einen
+AMG-Mercedes (380 PS)."	0
+"Clan-Boss <Entity>Nasser Rammou (44</Entity>, trotz anderer Schreibweise gehört er zum
+berüchtigten Remmo-Clan) kippte letztens vor Gericht um und kam ins Krankenhaus."	"Der <Entity>Remmo</Entity>-Clan ist in spektakuläre Millionen-Verbrechen verstrickt (Goldmünze
+Bodemuseum, Grünes Gewölbe Dresden)."	0
+"An einer Kreuzung fährt Rentner <Entity>Michael W. (69</Entity>) mit seinem Jeep bei Grün los, Hamdi H.
+rammt ihn mit seinem Audi."	"Der Anwalt von <Entity>Marvin N</Entity>. sagt, aus seiner Sicht handle es sich aber rechtlich nur um eine
+„übermäßige Straßennutzung“, die als Ordnungswidrigkeit geahndet werde (400 Euro und ein
+Monat Fahrverbot)."	0
+"<Entity>Nasser Rammou</Entity> saß 15 Jahre, also ein Drittel seines
+Lebens, im Gefängnis, meist wegen Drogendelikten."	"Urteil nach brutalen Angriffen auf Tschetschenen in Berlin
+Nasser <Entity>Rammou</Entity>"	0.8
+"Bei Ampelrot in den Gegenverkehr, Slalom in der
+<Entity>Gneisenaustraße</Entity>, Kollision. Mehringdamm/Yorckstraße, wieder Kollisionen."	"Im 7er BMW raste Halil G. (41) am 29. Oktober 2020 vormittags 5,4 Kilometer durch die
+Bezirke Kreuzberg und <Entity>Schöneberg</Entity>. Verbotenes Kraftfahrzeugrennen, vorsätzliche Gefährdung
+des Straßenverkehrs, Unfallflucht, Fahren ohne Führerschein – dafür wird er verurteilt."	0
+"Die Mordkommission nahm den Gesuchten am Mittwochabend in einer Wohnung <Entity>in
+Mönchengladbach</Entity> fest."	"Er war Ende Juni
+blutüberströmt und lebensgefährlich verletzt nachts auf einem <Entity>Feldweg in Mönchengladbach</Entity>
+aufgefunden worden."	0
+"Der Haupt-Tatverdächtige <Entity>Badia Al-Zein</Entity> und sein älterer Sohn Sehmus (28) sitzen weiter
+in U-Haft."	"Staatsanwalt <Entity>Julius Sterzel</Entity>
+(ZeOS NRW): „Wir prüfen, ob wir Beschwerde einlegen.“"	0
+"Das
+<Entity>Oberlandesgericht Naumburg</Entity> bestätigte dem Blatt den Eingang der Anklageschrift."	Das berichtet die in Halle erscheinende <Entity>Mitteldeutsche Zeitung</Entity> (Mittwochsausgabe).	0
+<Entity>Aberrahmane M. (24</Entity>) steht wegen Überfalls und körperlicher Misshandlung einer Seniorin (72) vor Gericht	Der damalige Komplize, <Entity>Mohamed M. (33</Entity>), behauptete in seinem Prozess, er sei bereits nach der Fesselung geflüchtet, habe mit der Sex-Tat nichts zu tun.	0
+"Am 8. November 2020 fanden Spaziergänger im <Entity>Buchholzer Graben/Ecke</Entity> Schönerlinder
+Straße einen männlichen Oberschenkelknochen ohne Gewebe."	"Nach Informationen aus Justizkreisen wirft die Berliner
+Staatsanwaltschaft Lehrer Stefan R. (41) aus <Entity>Pankow</Entity> einen Sexualmord aus niedrigen
+Beweggründen vor."	0
+"Bei Ampelrot in den Gegenverkehr, Slalom in der
+<Entity>Gneisenaustraße</Entity>, Kollision. Mehringdamm/Yorckstraße, wieder Kollisionen."	Der Dauer-Raser aus <Entity>Neukölln</Entity> hat alles zugegeben.	0
+"Der Haupt-Tatverdächtige Badia Al-Zein und sein älterer Sohn <Entity>Sehmus (28</Entity>) sitzen weiter
+in U-Haft."	"Jetzt kam der jüngere Sohn <Entity>Mohamed (24</Entity>) aus der U-Haft
+frei!"	0
+Al-Zeins wohnen weiterhin in der <Entity>Villa</Entity>	"Anfang Juni stürmte die Polizei die <Entity>Al-Zein-Villa in Leverkusen</Entity>,
+verhaftete vier Clan-Mitglieder."	1
+"Staatsanwalt <Entity>Julius Sterzel</Entity>
+(ZeOS NRW): „Wir prüfen, ob wir Beschwerde einlegen.“"	"„Mein Mandant ist aus der Haft entlassen. Es besteht kein dringender Tatverdacht“, so sein
+Verteidiger <Entity>Goran Bronisch</Entity> zu BILD."	0
+Die Polizei spürte <Entity>Alex S. (32</Entity>) in einer Wohnung in Mönchengladbach auf	"Mit nationalem und auch europäischem Haftbefehl hatte die Polizei
+nach <Entity>Alex S. (32</Entity>) gefahndet. Aufgespürt wurde er jetzt aber ganz in der Nähe des Tatorts."	1
+"Mercedes-Beifahrerin <Entity>Olesya K. (22</Entity>) vor Gericht: „Ich war schockiert. Erstens über die
+Geschwindigkeit, zweitens über die roten Ampeln.“"	"Staatsanwalt <Entity>Christian</Entity> Fröhlich: „Wir haben geprüft, ob bedingter Tötungsvorsatz bei dem
+Rennen vorlag. Wir haben Anhaltspunkte dafür.“"	0
+Der Dauer-Raser aus <Entity>Neukölln</Entity> hat alles zugegeben.	"Rotlicht-Verstoß <Entity>Blücherstraße</Entity>, die Polizei hängt sich mit Dashcam dran. Mittenwalder-,
+Fürbringer-, Zossener Straße."	0
+"Der Fall vom 1. Februar 2016: Hamdi H. fährt einen Audi A 6 TDI (225 PS), <Entity>Marvin N</Entity>. einen
+AMG-Mercedes (380 PS)."	"Staatsanwalt <Entity>Christian</Entity> Fröhlich: „Wir haben geprüft, ob bedingter Tötungsvorsatz bei dem
+Rennen vorlag. Wir haben Anhaltspunkte dafür.“"	0
+Die <Entity>Polizei</Entity> spürte Alex S. (32) in einer Wohnung in Mönchengladbach auf	"Mit nationalem und auch europäischem Haftbefehl hatte die <Entity>Polizei</Entity>
+nach Alex S. (32) gefahndet. Aufgespürt wurde er jetzt aber ganz in der Nähe des Tatorts."	1
+"Der 24-Jährige wurde 2015 in <Entity>Deutschland</Entity> erstmals
+registriert."	"Der Messerstecher von <Entity>Würzburg</Entity> soll nach dpa-Informationen in einer
+Psychiatrie untergebracht werden."	0
+"Staatsanwalt <Entity>Christian</Entity> Fröhlich: „Wir haben geprüft, ob bedingter Tötungsvorsatz bei dem
+Rennen vorlag. Wir haben Anhaltspunkte dafür.“"	Während der Staatsanwalt die Anklage verlas, starrte <Entity>Marvin N. (24</Entity>) auf den Tisch.	0
+"Auch der Verteidiger von <Entity>Hamdi H</Entity>. sagt: „Das Rennen war ihm nicht ansatzweise wichtig
+genug, um den Tod eines Menschen billigend in Kauf zu nehmen.“"	"Staatsanwalt <Entity>Christian</Entity> Fröhlich: „Wir haben geprüft, ob bedingter Tötungsvorsatz bei dem
+Rennen vorlag. Wir haben Anhaltspunkte dafür.“"	0
+"Ein Zeuge entdeckte am 14. Januar 2021 die Leiche der Obdachlosen Edith Blum
+(63) zwischen Baucontainern auf dem Platz vor einem Obdachlosenheim <Entity>in</Entity> der
+Luxemburger Straße in Trier (Rheinland-Pfalz)."	"Im Februar 2020 zog er nach <Entity>Trier</Entity>,
+lebte zuletzt in einer von der Stadt zugewiesenen Wohnung."	0
+"Im 7er BMW raste Halil G. (41) am 29. Oktober 2020 vormittags 5,4 Kilometer durch die
+Bezirke <Entity>Kreuzberg</Entity> und Schöneberg. Verbotenes Kraftfahrzeugrennen, vorsätzliche Gefährdung
+des Straßenverkehrs, Unfallflucht, Fahren ohne Führerschein – dafür wird er verurteilt."	"Vorm S-Bahnhof Yorckstraße in den Gegenverkehr.
+Baustellenschild umgenietet, Auto demoliert. Goebenstraße, <Entity>Bülowstraße</Entity> – dort hängt er die
+Verfolger ab."	0
+"Am 8. November 2020 fanden Spaziergänger im Buchholzer Graben/Ecke Schönerlinder
+<Entity>Straße</Entity> einen männlichen Oberschenkelknochen ohne Gewebe."	"Die Leiche des Opfers soll der Deutsche anschließend noch in seiner Wohnung zerteilt und
+die Leichenteile an verschiedenen Orten <Entity>in Berlin</Entity> abgelegt haben."	0
+"Der Haupt-Tatverdächtige Badia Al-Zein und sein älterer Sohn <Entity>Sehmus (28</Entity>) sitzen weiter
+in U-Haft."	"Staatsanwalt <Entity>Julius Sterzel</Entity>
+(ZeOS NRW): „Wir prüfen, ob wir Beschwerde einlegen.“"	0
+Die <Entity>Polizei</Entity> spürte Alex S. (32) in einer Wohnung in Mönchengladbach auf	"Zur Motivlage teilte die <Entity>Polizei</Entity> aus ermittlungstaktischen Gründen bislang lediglich mit,
+dass diese „im persönlichen, beziehungsbedingten Bereich“ liegen dürfte, aber wohl auch
+„finanziell motiviert“ sei."	1
+Clan-Boss <Entity>Nasser Rammou</Entity> schwieg im Prozess.	"Clan-Boss Nasser Rammou (44, trotz anderer Schreibweise gehört er zum
+berüchtigten <Entity>Remmo</Entity>-Clan) kippte letztens vor Gericht um und kam ins Krankenhaus."	0
+"Beide sollen dann
+zur Kreisverkehr-Baustelle am Kopf der <Entity>Römerbrücke in Trier-West</Entity> gegangen sein, um zu
+Alkohol zu trinken."	"Ein Zeuge entdeckte am 14. Januar 2021 die Leiche der Obdachlosen Edith Blum
+(63) zwischen Baucontainern auf dem Platz vor einem Obdachlosenheim <Entity>in</Entity> der
+Luxemburger Straße in Trier (Rheinland-Pfalz)."	0
+"<Entity>Nasser Rammou</Entity> saß 15 Jahre, also ein Drittel seines
+Lebens, im Gefängnis, meist wegen Drogendelikten."	Er könne das Urteil anfechten, belehrte ihn Richter <Entity>Schwanitz</Entity>.	0
+"Im 7er BMW raste Halil G. (41) am 29. Oktober 2020 vormittags 5,4 Kilometer durch die
+Bezirke Kreuzberg und <Entity>Schöneberg</Entity>. Verbotenes Kraftfahrzeugrennen, vorsätzliche Gefährdung
+des Straßenverkehrs, Unfallflucht, Fahren ohne Führerschein – dafür wird er verurteilt."	"Rotlicht-Verstoß Blücherstraße, die Polizei hängt sich mit Dashcam dran. Mittenwalder-,
+Fürbringer<Entity>-</Entity>, Zossener Straße."	0
+<Entity>Marvin</Entity> habe geschwiegen: „Er gab nur Gas.“	"An einer Kreuzung fährt Rentner <Entity>Michael W. (69</Entity>) mit seinem Jeep bei Grün los, Hamdi H.
+rammt ihn mit seinem Audi."	0
+"Der Remmo-Clan ist in spektakuläre Millionen-Verbrechen verstrickt (Goldmünze
+Bodemuseum, Grünes <Entity>Gewölbe</Entity> Dresden)."	"Polizei sucht Spione  
+aus dem Grünen <Entity>Gewölbe</Entity>"	0.8
+Das berichtet die in <Entity>Halle</Entity> erscheinende Mitteldeutsche Zeitung (Mittwochsausgabe).	"Der gelernte Schweißer hatte sich bereits 2014
+nach <Entity>Syrien</Entity> abgesetzt und war in der Hierarchie der Terrororganisation aufgestiegen."	0
+"Am 13. Oktober 2017
+wurde die Ordnungswidrigkeit Autorennen in <Entity>Deutschland</Entity> zur Straftat."	"Bei Ampelrot in den Gegenverkehr, Slalom in der
+Gneisenaustraße, Kollision. <Entity>Mehringdamm</Entity>/Yorckstraße, wieder Kollisionen."	0
+"Bei Ampelrot in den Gegenverkehr, Slalom in der
+<Entity>Gneisenaustraße</Entity>, Kollision. Mehringdamm/Yorckstraße, wieder Kollisionen."	"Vorm S-Bahnhof Yorckstraße in den Gegenverkehr.
+Baustellenschild umgenietet, Auto demoliert. Goebenstraße, <Entity>Bülowstraße</Entity> – dort hängt er die
+Verfolger ab."	0
+"Vorm <Entity>S-Bahnhof</Entity> Yorckstraße in den Gegenverkehr.
+Baustellenschild umgenietet, Auto demoliert. Goebenstraße, Bülowstraße – dort hängt er die
+Verfolger ab."	"Vorm S-Bahnhof Yorckstraße in den Gegenverkehr.
+Baustellenschild umgenietet, Auto demoliert. <Entity>Goebenstraße</Entity>, Bülowstraße – dort hängt er die
+Verfolger ab."	0
+"Edith Blum soll am 13. Januar im Bereich der Treveris-Passage <Entity>in der Innenstadt von Trier</Entity> mit
+mehreren Leuten Alkohol getrunken haben."	Seit 2015 in <Entity>Deutschland</Entity>, mehrfach vorbestraft	0
+"Der Afrikaner reiste im März 2015 als Flüchtling nach
+Deutschland ein, lebte zunächst im <Entity>Rhein-Hunsrück</Entity>-Kreis."	"Ein Zeuge entdeckte am 14. Januar 2021 die Leiche der Obdachlosen Edith Blum
+(63) zwischen Baucontainern auf dem Platz vor einem Obdachlosenheim <Entity>in</Entity> der
+Luxemburger Straße in Trier (Rheinland-Pfalz)."	0
+"<Entity>Nasser Rammou</Entity> saß 15 Jahre, also ein Drittel seines
+Lebens, im Gefängnis, meist wegen Drogendelikten."	„Das ist als rassistische Tat zu werten“, sagt Amtsrichter <Entity>Carsten Schwanitz</Entity>.	0
+"Im Jahr 2015 hatte sich die 15-jährige Leonora M. unbemerkt von ihren Eltern radikalisiert, sie
+reiste nach <Entity>Syrien</Entity> aus und schloss sich dem Islamischen Staat an."	"In Syrien soll sie ein ranghohes Mitglied des ISIS-Geheimdienstes geheiratet haben: Martin
+Lemke (30) aus <Entity>Zeitz (Burgenlandkreis</Entity>)."	0
+"Mit nationalem und auch europäischem Haftbefehl hatte die <Entity>Polizei</Entity>
+nach Alex S. (32) gefahndet. Aufgespürt wurde er jetzt aber ganz in der Nähe des Tatorts."	"Zur Motivlage teilte die <Entity>Polizei</Entity> aus ermittlungstaktischen Gründen bislang lediglich mit,
+dass diese „im persönlichen, beziehungsbedingten Bereich“ liegen dürfte, aber wohl auch
+„finanziell motiviert“ sei."	1
+"Urteil nach brutalen Angriffen auf Tschetschenen in Berlin
+Nasser <Entity>Rammou</Entity>"	„Das ist als rassistische Tat zu werten“, sagt Amtsrichter <Entity>Carsten Schwanitz</Entity>.	0
+"Die Tat: Bei einer Probefahrt am 15. Januar dieses Jahres waren die Männer mit einem BMW
+rückwärts ins Schaufenster eines <Entity>Bamberger Juweliers</Entity> gedonnert."	"Die inzwischen frühpensionierten Polizisten rasten rückwärts in das Schaufenster dieses <Entity>Bamberger
+Juweliers</Entity>"	1
+"Jetzt kam der jüngere Sohn <Entity>Mohamed (24</Entity>) aus der U-Haft
+frei!"	"Staatsanwalt <Entity>Julius Sterzel</Entity>
+(ZeOS NRW): „Wir prüfen, ob wir Beschwerde einlegen.“"	0
+"Denn: Erst wurde wegen fahrlässiger Tötung gegen <Entity>Hamdi H</Entity>. ermittelt, dann gegen beide
+Fahrer wegen Totschlags."	"Staatsanwalt <Entity>Christian</Entity> Fröhlich: „Wir haben geprüft, ob bedingter Tötungsvorsatz bei dem
+Rennen vorlag. Wir haben Anhaltspunkte dafür.“"	0
+"Der Afrikaner reiste im März 2015 als Flüchtling nach
+<Entity>Deutschland</Entity> ein, lebte zunächst im Rhein-Hunsrück-Kreis."	"Edith Blum soll am 13. Januar im Bereich der Treveris-Passage <Entity>in der Innenstadt von Trier</Entity> mit
+mehreren Leuten Alkohol getrunken haben."	0
+"Der Afrikaner reiste im März 2015 als Flüchtling nach
+<Entity>Deutschland</Entity> ein, lebte zunächst im Rhein-Hunsrück-Kreis."	"Ein Zeuge entdeckte am 14. Januar 2021 die Leiche der Obdachlosen Edith Blum
+(63) zwischen Baucontainern auf dem Platz vor einem Obdachlosenheim <Entity>in</Entity> der
+Luxemburger Straße in Trier (Rheinland-Pfalz)."	0
+<Entity>Hamdi H. (27</Entity>) weinte die ganze Zeit.	"Denn: Erst wurde wegen fahrlässiger Tötung gegen <Entity>Hamdi H</Entity>. ermittelt, dann gegen beide
+Fahrer wegen Totschlags."	1
+"Bei Ampelrot in den Gegenverkehr, Slalom in der
+Gneisenaustraße, Kollision. <Entity>Mehringdamm</Entity>/Yorckstraße, wieder Kollisionen."	"Rotlicht-Verstoß Blücherstraße, die Polizei hängt sich mit Dashcam dran. Mittenwalder-,
+Fürbringer-, <Entity>Zossener Straße</Entity>."	0
+<Entity>Badia Al-Zein</Entity>, seine beiden Söhne und seine Frau wurden verhaftet.	"„Mein Mandant ist aus der Haft entlassen. Es besteht kein dringender Tatverdacht“, so sein
+Verteidiger <Entity>Goran Bronisch</Entity> zu BILD."	0
+Der damalige Komplize, <Entity>Mohamed M. (33</Entity>), behauptete in seinem Prozess, er sei bereits nach der Fesselung geflüchtet, habe mit der Sex-Tat nichts zu tun.	Dort entkleidete <Entity>Mestafa B</Entity>. den Unterleib der gefesselten Seniorin und versuchte, sie vergewaltigen.	0
+Der 7. November 2020, <Entity>Bahnhof Gesundbrunnen (Wedding</Entity>).	"Er ist so schwerkriminell, dass er seit der letzten Haftentlassung im Februar 2018 eine
+elektronische Fußfessel tragen muss (passiert selten in <Entity>Deutschland</Entity>)."	0
+"Beide sollen dann
+zur Kreisverkehr-Baustelle am Kopf der <Entity>Römerbrücke in Trier-West</Entity> gegangen sein, um zu
+Alkohol zu trinken."	"Edith Blum soll am 13. Januar im Bereich der Treveris-Passage <Entity>in der Innenstadt von Trier</Entity> mit
+mehreren Leuten Alkohol getrunken haben."	0.2
+"Die
+nun angeklagte <Entity>Leonora M</Entity>. soll laut Ermittlern seine Drittfrau gewesen sein."	"Im Jahr 2015 hatte sich die 15-jährige <Entity>Leonora M</Entity>. unbemerkt von ihren Eltern radikalisiert, sie
+reiste nach Syrien aus und schloss sich dem Islamischen Staat an."	1
+Der Generalbundesanwalt hat die ISIS-Rückkehrerin Leonora M. (21) aus <Entity>Sachsen</Entity>-	"Im Jahr 2015 hatte sich die 15-jährige Leonora M. unbemerkt von ihren Eltern radikalisiert, sie
+reiste nach <Entity>Syrien</Entity> aus und schloss sich dem Islamischen Staat an."	0
+<Entity>Leonora M</Entity>. mit ihrer Tochter in Syrien	"Die
+nun angeklagte <Entity>Leonora M</Entity>. soll laut Ermittlern seine Drittfrau gewesen sein."	1
+"Der Somalier hatte am 25. Juni in der <Entity>Würzburger Innenstadt</Entity> auf ihm offensichtlich
+unbekannte Menschen eingestochen."	"Derzeit befindet sich Abdirahman J. (24) noch in Untersuchungshaft in einem <Entity>Gefängnis in
+Würzburg</Entity>."	0.2
+"Der Afrikaner reiste im März 2015 als Flüchtling nach
+Deutschland ein, lebte zunächst im <Entity>Rhein-Hunsrück</Entity>-Kreis."	"Im Februar 2020 zog er nach <Entity>Trier</Entity>,
+lebte zuletzt in einer von der Stadt zugewiesenen Wohnung."	0
+<Entity>Hamdi H. (27</Entity>) weinte die ganze Zeit.	"Der Fall vom 1. Februar 2016: Hamdi H. fährt einen Audi A 6 TDI (225 PS), <Entity>Marvin N</Entity>. einen
+AMG-Mercedes (380 PS)."	0
+"Der 24-Jährige wurde 2015 in <Entity>Deutschland</Entity> erstmals
+registriert."	"Derzeit befindet sich Abdirahman J. (24) noch in Untersuchungshaft in einem <Entity>Gefängnis in
+Würzburg</Entity>."	0
+Das berichtet die in <Entity>Halle</Entity> erscheinende Mitteldeutsche Zeitung (Mittwochsausgabe).	Leonora M. mit ihrer Tochter in <Entity>Syrien</Entity>	0
+"Clan-Boss <Entity>Nasser Rammou</Entity>
+muss wieder in Haft"	"Der <Entity>Remmo</Entity>-Clan ist in spektakuläre Millionen-Verbrechen verstrickt (Goldmünze
+Bodemuseum, Grünes Gewölbe Dresden)."	0
+Al-Zeins wohnen weiterhin in der <Entity>Villa</Entity>	Der Staat wurde im Grundbuch der <Entity>Villa</Entity> direkt nach der Sparkasse Leverkusen eingetragen.	1
+"Der Remmo-Clan ist in spektakuläre Millionen-Verbrechen verstrickt (Goldmünze
+<Entity>Bodemuseum</Entity>, Grünes Gewölbe Dresden)."	"Die
+Angriffe seien „Vergeltung und Selbstjustiz“ gewesen für einen kurz zuvor erfolgten Streit an
+seinem Kiosk <Entity>in</Entity> der Wildenbruchstraße (Neukölln)."	0
+"Im 7er BMW raste Halil G. (41) am 29. Oktober 2020 vormittags 5,4 Kilometer durch die
+Bezirke <Entity>Kreuzberg</Entity> und Schöneberg. Verbotenes Kraftfahrzeugrennen, vorsätzliche Gefährdung
+des Straßenverkehrs, Unfallflucht, Fahren ohne Führerschein – dafür wird er verurteilt."	"Rotlicht-Verstoß Blücherstraße, die Polizei hängt sich mit Dashcam dran. Mittenwalder-,
+Fürbringer<Entity>-</Entity>, Zossener Straße."	0
+Bisher schweigt <Entity>Mario B</Entity>. zu den Vorwürfen.	"Es ist der 6. Februar 2018, eine Wohnung in der Falkenberger Chaussee (Berlin-
+Hohenschönhausen). Gerrit <Entity>S. (39</Entity>) liegt halbtot in seinem Blut."	0
+Der Generalbundesanwalt hat die ISIS-Rückkehrerin <Entity>Leonora M. (21</Entity>) aus Sachsen-	"Generalbundesanwalt klagt
+ISIS-Braut <Entity>Leonora M</Entity>. an"	1
+<Entity>Hamdi H. (27</Entity>) weinte die ganze Zeit.	"Auch der Verteidiger von <Entity>Hamdi H</Entity>. sagt: „Das Rennen war ihm nicht ansatzweise wichtig
+genug, um den Tod eines Menschen billigend in Kauf zu nehmen.“"	1
+"In <Entity>Syrien</Entity> soll sie ein ranghohes Mitglied des ISIS-Geheimdienstes geheiratet haben: Martin
+Lemke (30) aus Zeitz (Burgenlandkreis)."	Leonora M. mit ihrer Tochter in <Entity>Syrien</Entity>	1
+"Bei Ampelrot in den Gegenverkehr, Slalom in der
+<Entity>Gneisenaustraße</Entity>, Kollision. Mehringdamm/Yorckstraße, wieder Kollisionen."	"Vorm S-Bahnhof Yorckstraße in den Gegenverkehr.
+Baustellenschild umgenietet, Auto demoliert. <Entity>Goebenstraße</Entity>, Bülowstraße – dort hängt er die
+Verfolger ab."	0
+"Generalbundesanwalt klagt
+ISIS-Braut <Entity>Leonora M</Entity>. an"	"Laut eines Haftbefehls gegen <Entity>M</Entity>. aus dem Jahr 2020 soll ihr Ehemann 2015 eine Frau als
+Sklavin gekauft haben, um diese zusammen mit ihren zwei Kindern „gewinnbringend“
+weiterzuverkaufen."	1
+"Clan-Boss <Entity>Nasser Rammou</Entity>
+muss wieder in Haft"	Er könne das Urteil anfechten, belehrte ihn Richter <Entity>Schwanitz</Entity>.	0
+"<Entity>Nasser Rammou</Entity> saß 15 Jahre, also ein Drittel seines
+Lebens, im Gefängnis, meist wegen Drogendelikten."	<Entity>Rammou</Entity> muss drei Jahre und neun Monate in Haft, mal wieder …	1
+"Ein Zeuge entdeckte am 14. Januar 2021 die Leiche der Obdachlosen Edith Blum
+(63) zwischen Baucontainern auf dem Platz vor einem Obdachlosenheim <Entity>in</Entity> der
+Luxemburger Straße in Trier (Rheinland-Pfalz)."	Seit 2015 in <Entity>Deutschland</Entity>, mehrfach vorbestraft	0
+"Im 7er BMW raste <Entity>Halil G. (41</Entity>) am 29. Oktober 2020 vormittags 5,4 Kilometer durch die
+Bezirke Kreuzberg und Schöneberg. Verbotenes Kraftfahrzeugrennen, vorsätzliche Gefährdung
+des Straßenverkehrs, Unfallflucht, Fahren ohne Führerschein – dafür wird er verurteilt."	"„Das Video aus der Dashcam erinnert an das Videospiel Fast&Furious“, sagt <Entity>Andreas
+Winkelmann (55</Entity>)."	0
+Auf der Anklagebank: Aberrahmane M. (24) aus Tunesien und <Entity>Mestafa B. (17</Entity>) aus Algerien.	"Feiger Sex-Gangster und
+
+Komplize vor Gericht
+
+<Entity>Mestafa B. (17</Entity>, li.) wird in Handschellen ins Gericht geführt."	1
+"Polizei sucht Spione  
+aus dem Grünen <Entity>Gewölbe</Entity>"	"Urteil nach brutalen Angriffen auf Tschetschenen in <Entity>Berlin</Entity>
+Nasser Rammou"	0
+"Clan-Boss <Entity>Nasser Rammou (44</Entity>, trotz anderer Schreibweise gehört er zum
+berüchtigten Remmo-Clan) kippte letztens vor Gericht um und kam ins Krankenhaus."	„Das ist als rassistische Tat zu werten“, sagt Amtsrichter <Entity>Carsten Schwanitz</Entity>.	0
+"An einer Kreuzung fährt Rentner Michael W. (69) mit seinem Jeep bei Grün los, <Entity>Hamdi H</Entity>.
+rammt ihn mit seinem Audi."	"Der Fall vom 1. Februar 2016: Hamdi H. fährt einen Audi A 6 TDI (225 PS), <Entity>Marvin N</Entity>. einen
+AMG-Mercedes (380 PS)."	0
+Der Staat wurde im Grundbuch der <Entity>Villa</Entity> direkt nach der Sparkasse Leverkusen eingetragen.	"Mit einem Polizei-Panzer rammten sie unter anderem den Zugang zur <Entity>Villa in
+Leverkusen</Entity> auf, sprengten die Eingangstür."	1
+"Rotlicht-Verstoß Blücherstraße, die Polizei hängt sich mit Dashcam dran. Mittenwalder-,
+Fürbringer<Entity>-</Entity>, Zossener Straße."	"Vorm S-Bahnhof Yorckstraße in den Gegenverkehr.
+Baustellenschild umgenietet, Auto demoliert. <Entity>Goebenstraße</Entity>, Bülowstraße – dort hängt er die
+Verfolger ab."	0
+"Clan-Boss <Entity>Nasser Rammou (44</Entity>, trotz anderer Schreibweise gehört er zum
+berüchtigten Remmo-Clan) kippte letztens vor Gericht um und kam ins Krankenhaus."	"Clan-Boss <Entity>Nasser Rammou</Entity>
+muss wieder in Haft"	1
+"Die inzwischen frühpensionierten Polizisten rasten rückwärts in das Schaufenster dieses <Entity>Bamberger
+Juweliers</Entity>"	"Seit gestern stehen die beiden inzwischen wegen psychischer Probleme frühpensionierten
+Polizisten aus Hamburg und Berlin deshalb vor dem <Entity>Landgericht Bamberg</Entity>."	0
+"<Entity>Julius Everling</Entity> begründet: „Ich gebe Ihnen die
+Chance, sich selbst zu stellen zur Strafverbüßung.“"	Seit Ende Mai sitzt <Entity>Halil G</Entity>. in U-Haft.	0
+"Der Haupt-Tatverdächtige <Entity>Badia Al-Zein</Entity> und sein älterer Sohn Sehmus (28) sitzen weiter
+in U-Haft."	"Der Haupt-Tatverdächtige Badia Al-Zein und sein älterer Sohn <Entity>Sehmus (28</Entity>) sitzen weiter
+in U-Haft."	0
+<Entity>Marvin</Entity> habe geschwiegen: „Er gab nur Gas.“	"Auch der Verteidiger von <Entity>Hamdi H</Entity>. sagt: „Das Rennen war ihm nicht ansatzweise wichtig
+genug, um den Tod eines Menschen billigend in Kauf zu nehmen.“"	0
+"Vorm <Entity>S-Bahnhof</Entity> Yorckstraße in den Gegenverkehr.
+Baustellenschild umgenietet, Auto demoliert. Goebenstraße, Bülowstraße – dort hängt er die
+Verfolger ab."	"Vorm S-Bahnhof Yorckstraße in den Gegenverkehr.
+Baustellenschild umgenietet, Auto demoliert. Goebenstraße, <Entity>Bülowstraße</Entity> – dort hängt er die
+Verfolger ab."	0
+"Der Afrikaner reiste im März 2015 als Flüchtling nach
+<Entity>Deutschland</Entity> ein, lebte zunächst im Rhein-Hunsrück-Kreis."	"Der Afrikaner reiste im März 2015 als Flüchtling nach
+Deutschland ein, lebte zunächst im <Entity>Rhein-Hunsrück</Entity>-Kreis."	0
+"Der Remmo-Clan ist in spektakuläre Millionen-Verbrechen verstrickt (Goldmünze
+<Entity>Bodemuseum</Entity>, Grünes Gewölbe Dresden)."	"Er ist so schwerkriminell, dass er seit der letzten Haftentlassung im Februar 2018 eine
+elektronische Fußfessel tragen muss (passiert selten in <Entity>Deutschland</Entity>)."	0
+<Entity>Mohamed M. (33</Entity>, li.) soll der Komplize vom Überfall auf die ältere Seniorin (93) gewesen sein.	Dort entkleidete <Entity>Mestafa B</Entity>. den Unterleib der gefesselten Seniorin und versuchte, sie vergewaltigen.	0
+Am Donnerstag begann der Prozess gegen Mario B. (31) am <Entity>Berliner Landgericht</Entity>.	"Das <Entity>Landgericht</Entity> habe inzwischen einem Antrag der Staatsanwaltschaft auf
+Wiederaufnahme des Verfahrens als zulässig erachtet, sagte ein Gerichtssprecher."	1
+"Clan-Boss <Entity>Nasser Rammou (44</Entity>, trotz anderer Schreibweise gehört er zum
+berüchtigten Remmo-Clan) kippte letztens vor Gericht um und kam ins Krankenhaus."	"Clan-Boss Nasser Rammou (44, trotz anderer Schreibweise gehört er zum
+berüchtigten <Entity>Remmo</Entity>-Clan) kippte letztens vor Gericht um und kam ins Krankenhaus."	0
+Der Generalbundesanwalt hat die ISIS-Rückkehrerin Leonora M. (21) aus <Entity>Sachsen</Entity>-	"In <Entity>Syrien</Entity> soll sie ein ranghohes Mitglied des ISIS-Geheimdienstes geheiratet haben: Martin
+Lemke (30) aus Zeitz (Burgenlandkreis)."	0
+<Entity>Mohamed M. (33</Entity>, li.) soll der Komplize vom Überfall auf die ältere Seniorin (93) gewesen sein.	Auf der Anklagebank: Aberrahmane M. (24) aus Tunesien und <Entity>Mestafa B. (17</Entity>) aus Algerien.	0
+"Auch der Verteidiger von <Entity>Hamdi H</Entity>. sagt: „Das Rennen war ihm nicht ansatzweise wichtig
+genug, um den Tod eines Menschen billigend in Kauf zu nehmen.“"	"Denn: Erst wurde wegen fahrlässiger Tötung gegen <Entity>Hamdi H</Entity>. ermittelt, dann gegen beide
+Fahrer wegen Totschlags."	1
+"Am 8. November 2020 fanden Spaziergänger im Buchholzer Graben/Ecke Schönerlinder
+<Entity>Straße</Entity> einen männlichen Oberschenkelknochen ohne Gewebe."	"Er soll am 6. September 2020 den Hochleitungsbau-Monteur Stefan T. (44) aus <Entity>Lichtenberg</Entity>
+getötet haben."	0
+Das berichtet die in <Entity>Halle</Entity> erscheinende Mitteldeutsche Zeitung (Mittwochsausgabe).	"Im Jahr 2015 hatte sich die 15-jährige Leonora M. unbemerkt von ihren Eltern radikalisiert, sie
+reiste nach <Entity>Syrien</Entity> aus und schloss sich dem Islamischen Staat an."	0
+"Edith Blum soll am 13. Januar im Bereich der <Entity>Treveris-</Entity>Passage in der Innenstadt von Trier mit
+mehreren Leuten Alkohol getrunken haben."	"Edith Blum soll am 13. Januar im Bereich der Treveris-Passage <Entity>in der Innenstadt von Trier</Entity> mit
+mehreren Leuten Alkohol getrunken haben."	0
+<Entity>Rammou</Entity> muss drei Jahre und neun Monate in Haft, mal wieder …	"Urteil nach brutalen Angriffen auf Tschetschenen in Berlin
+Nasser <Entity>Rammou</Entity>"	1
+"Der Afrikaner reiste im März 2015 als Flüchtling nach
+<Entity>Deutschland</Entity> ein, lebte zunächst im Rhein-Hunsrück-Kreis."	Seit 2015 in <Entity>Deutschland</Entity>, mehrfach vorbestraft	1
+Das Duo soll einen Mann (39) aus <Entity>Neuss</Entity> fast umgebracht haben.	Die Polizei spürte Alex S. (32) in einer Wohnung <Entity>in Mönchengladbach</Entity> auf	0
+"Die
+Angriffe seien „Vergeltung und Selbstjustiz“ gewesen für einen kurz zuvor erfolgten Streit an
+seinem Kiosk <Entity>in</Entity> der Wildenbruchstraße (Neukölln)."	"Urteil nach brutalen Angriffen auf Tschetschenen in <Entity>Berlin</Entity>
+Nasser Rammou"	0
+Bisher schweigt <Entity>Mario B</Entity>. zu den Vorwürfen.	Neben dem aktuellen Prozess könnte ein älterer gegen <Entity>Mario B</Entity>. wieder aufgenommen werden.	1
+"Rotlicht-Verstoß Blücherstraße, die Polizei hängt sich mit Dashcam dran. Mittenwalder-,
+Fürbringer-, <Entity>Zossener Straße</Entity>."	"Vorm S-Bahnhof Yorckstraße in den Gegenverkehr.
+Baustellenschild umgenietet, Auto demoliert. Goebenstraße, <Entity>Bülowstraße</Entity> – dort hängt er die
+Verfolger ab."	0
+"<Entity>Mario B</Entity>. wird festgenommen und kommt
+in Untersuchungshaft."	Neben dem aktuellen Prozess könnte ein älterer gegen <Entity>Mario B</Entity>. wieder aufgenommen werden.	1
+<Entity>Rammou</Entity> muss drei Jahre und neun Monate in Haft, mal wieder …	Clan-Boss <Entity>Nasser Rammou</Entity> schwieg im Prozess.	1
+"Ein Zeuge entdeckte am 14. Januar 2021 die Leiche der Obdachlosen Edith Blum
+(63) zwischen Baucontainern auf dem Platz vor einem Obdachlosenheim <Entity>in</Entity> der
+Luxemburger Straße in Trier (Rheinland-Pfalz)."	"Ein Zeuge entdeckte am 14. Januar 2021 die Leiche der Obdachlosen Edith Blum
+(63) zwischen Baucontainern auf dem Platz vor einem Obdachlosenheim in der
+<Entity>Luxemburger Straße in Trier (Rheinland-Pfalz</Entity>)."	0
+"Vorm S-Bahnhof Yorckstraße in den Gegenverkehr.
+Baustellenschild umgenietet, Auto demoliert. <Entity>Goebenstraße</Entity>, Bülowstraße – dort hängt er die
+Verfolger ab."	"Vorm S-Bahnhof Yorckstraße in den Gegenverkehr.
+Baustellenschild umgenietet, Auto demoliert. Goebenstraße, <Entity>Bülowstraße</Entity> – dort hängt er die
+Verfolger ab."	0
+"In Syrien soll sie ein ranghohes Mitglied des ISIS-Geheimdienstes geheiratet haben: Martin
+Lemke (30) aus <Entity>Zeitz (Burgenlandkreis</Entity>)."	Leonora M. mit ihrer Tochter in <Entity>Syrien</Entity>	0
+Am Donnerstag begann der Prozess gegen <Entity>Mario B. (31</Entity>) am Berliner Landgericht.	"Es ist der 6. Februar 2018, eine Wohnung in der Falkenberger Chaussee (Berlin-
+Hohenschönhausen). Gerrit <Entity>S. (39</Entity>) liegt halbtot in seinem Blut."	0
+"Der Somalier hatte am 25. Juni in der <Entity>Würzburger Innenstadt</Entity> auf ihm offensichtlich
+unbekannte Menschen eingestochen."	"Messer-Killer von <Entity>Würzburg</Entity>
+kommt in die Psychiatrie
+Abdirahman J. (24) wird nach der Bluttat von einem Beamten am Boden fixiert"	0
+"Der Remmo-Clan ist in spektakuläre Millionen-Verbrechen verstrickt (Goldmünze
+<Entity>Bodemuseum</Entity>, Grünes Gewölbe Dresden)."	"Der Remmo-Clan ist in spektakuläre Millionen-Verbrechen verstrickt (Goldmünze
+Bodemuseum, Grünes <Entity>Gewölbe</Entity> Dresden)."	0
+"Generalbundesanwalt klagt
+ISIS-Braut <Entity>Leonora M</Entity>. an"	"Im Jahr 2015 hatte sich die 15-jährige <Entity>Leonora M</Entity>. unbemerkt von ihren Eltern radikalisiert, sie
+reiste nach Syrien aus und schloss sich dem Islamischen Staat an."	1
+"Im Jahr 2015 hatte sich die 15-jährige Leonora M. unbemerkt von ihren Eltern radikalisiert, sie
+reiste nach <Entity>Syrien</Entity> aus und schloss sich dem Islamischen Staat an."	"In <Entity>Syrien</Entity> soll sie ein ranghohes Mitglied des ISIS-Geheimdienstes geheiratet haben: Martin
+Lemke (30) aus Zeitz (Burgenlandkreis)."	1
+"Der 24-Jährige wurde 2015 in <Entity>Deutschland</Entity> erstmals
+registriert."	"Messer-Killer von <Entity>Würzburg</Entity>
+kommt in die Psychiatrie
+Abdirahman J. (24) wird nach der Bluttat von einem Beamten am Boden fixiert"	0
+<Entity>Hamdi H. (27</Entity>) weinte die ganze Zeit.	<Entity>Marvin</Entity> habe geschwiegen: „Er gab nur Gas.“	0
+"Beide sollen dann
+zur Kreisverkehr-Baustelle am Kopf der <Entity>Römerbrücke in Trier-West</Entity> gegangen sein, um zu
+Alkohol zu trinken."	"Edith Blum soll am 13. Januar im Bereich der <Entity>Treveris-</Entity>Passage in der Innenstadt von Trier mit
+mehreren Leuten Alkohol getrunken haben."	0
+"<Entity>Mario B</Entity>. soll ihn während eines
+Trinkgelages mit der Faust zu Boden gebracht und ihm dann bis zu acht Mal mit „stampfenden
+Ausholbewegungen“ und schweren Stahlkappen-Schuhen auf den Kopf getreten haben."	"Am 20. Dezember 2015 soll er <Entity>Jean W. (52</Entity>) in einer Wohnung in der Dolgenseestraße
+(Berlin-Lichtenberg) attackiert haben."	0
+Das Duo soll einen Mann (39) aus <Entity>Neuss</Entity> fast umgebracht haben.	"Er war Ende Juni
+blutüberströmt und lebensgefährlich verletzt nachts auf einem <Entity>Feldweg in Mönchengladbach</Entity>
+aufgefunden worden."	0
+Felix B. in Schutzkleidung der <Entity>Berliner Polizei</Entity>	"Seit gestern stehen die beiden inzwischen wegen psychischer Probleme frühpensionierten
+Polizisten aus Hamburg und Berlin deshalb vor dem <Entity>Landgericht Bamberg</Entity>."	0
+"An einer Kreuzung fährt Rentner Michael W. (69) mit seinem Jeep bei Grün los, <Entity>Hamdi H</Entity>.
+rammt ihn mit seinem Audi."	"Auch der Verteidiger von <Entity>Hamdi H</Entity>. sagt: „Das Rennen war ihm nicht ansatzweise wichtig
+genug, um den Tod eines Menschen billigend in Kauf zu nehmen.“"	1
+<Entity>Aberrahmane M. (24</Entity>) steht wegen Überfalls und körperlicher Misshandlung einer Seniorin (72) vor Gericht	Auf der Anklagebank: <Entity>Aberrahmane M. (24</Entity>) aus Tunesien und Mestafa B. (17) aus Algerien.	1
+"<Entity>Mario B</Entity>. wird festgenommen und kommt
+in Untersuchungshaft."	Am Donnerstag begann der Prozess gegen <Entity>Mario B. (31</Entity>) am Berliner Landgericht.	1
+"Bei Ampelrot in den Gegenverkehr, Slalom in der
+Gneisenaustraße, Kollision. <Entity>Mehringdamm</Entity>/Yorckstraße, wieder Kollisionen."	"Vorm <Entity>S-Bahnhof</Entity> Yorckstraße in den Gegenverkehr.
+Baustellenschild umgenietet, Auto demoliert. Goebenstraße, Bülowstraße – dort hängt er die
+Verfolger ab."	0
+Auf dem Dach hatten sie ein Blaulicht angebracht. Täuschend echt, so die wahre <Entity>Polizei</Entity>.	"Die Tat: Bei einer Probefahrt am 15. Januar dieses Jahres waren die Männer mit einem BMW
+rückwärts ins Schaufenster eines <Entity>Bamberger Juweliers</Entity> gedonnert."	0
+"Der <Entity>Remmo</Entity>-Clan ist in spektakuläre Millionen-Verbrechen verstrickt (Goldmünze
+Bodemuseum, Grünes Gewölbe Dresden)."	"Urteil nach brutalen Angriffen auf Tschetschenen in Berlin
+Nasser <Entity>Rammou</Entity>"	0
+Bei der Razzia im Juni wurde diese <Entity>Villa in Leverkusen</Entity> durchsucht, es kam zu mehreren Festnahmen	Einer der Söhne wurde aus der <Entity>Villa</Entity> geführt	1
+<Entity>Aberrahmane M. (24</Entity>) steht wegen Überfalls und körperlicher Misshandlung einer Seniorin (72) vor Gericht	"Feiger Sex-Gangster und
+
+Komplize vor Gericht
+
+<Entity>Mestafa B. (17</Entity>, li.) wird in Handschellen ins Gericht geführt."	0
+"Clan-Boss Nasser Rammou (44, trotz anderer Schreibweise gehört er zum
+berüchtigten <Entity>Remmo</Entity>-Clan) kippte letztens vor Gericht um und kam ins Krankenhaus."	Er könne das Urteil anfechten, belehrte ihn Richter <Entity>Schwanitz</Entity>.	0
+Auf der Anklagebank: Aberrahmane M. (24) aus Tunesien und <Entity>Mestafa B. (17</Entity>) aus Algerien.	Dort entkleidete <Entity>Mestafa B</Entity>. den Unterleib der gefesselten Seniorin und versuchte, sie vergewaltigen.	1
+Der Generalbundesanwalt hat die ISIS-Rückkehrerin Leonora M. (21) aus <Entity>Sachsen</Entity>-	"In Syrien soll sie ein ranghohes Mitglied des ISIS-Geheimdienstes geheiratet haben: Martin
+Lemke (30) aus <Entity>Zeitz (Burgenlandkreis</Entity>)."	0
+"Der Fall vom 1. Februar 2016: <Entity>Hamdi H</Entity>. fährt einen Audi A 6 TDI (225 PS), Marvin N. einen
+AMG-Mercedes (380 PS)."	Während der Staatsanwalt die Anklage verlas, starrte <Entity>Marvin N. (24</Entity>) auf den Tisch.	0
+<Entity>Marvin</Entity> habe geschwiegen: „Er gab nur Gas.“	"An einer Kreuzung fährt Rentner Michael W. (69) mit seinem Jeep bei Grün los, <Entity>Hamdi H</Entity>.
+rammt ihn mit seinem Audi."	0
+"Die Tat: Bei einer Probefahrt am 15. Januar dieses Jahres waren die Männer mit einem BMW
+rückwärts ins Schaufenster eines <Entity>Bamberger Juweliers</Entity> gedonnert."	Felix B. in Schutzkleidung der <Entity>Berliner Polizei</Entity>	0
+"Anfang Juni stürmte die Polizei die <Entity>Al-Zein-Villa in Leverkusen</Entity>,
+verhaftete vier Clan-Mitglieder."	Einer der Söhne wurde aus der <Entity>Villa</Entity> geführt	1
+"An einer Kreuzung fährt Rentner <Entity>Michael W. (69</Entity>) mit seinem Jeep bei Grün los, Hamdi H.
+rammt ihn mit seinem Audi."	"Mercedes-Beifahrerin <Entity>Olesya K. (22</Entity>) vor Gericht: „Ich war schockiert. Erstens über die
+Geschwindigkeit, zweitens über die roten Ampeln.“"	0
+Am Donnerstag begann der Prozess gegen <Entity>Mario B. (31</Entity>) am Berliner Landgericht.	Neben dem aktuellen Prozess könnte ein älterer gegen <Entity>Mario B</Entity>. wieder aufgenommen werden.	1
+"Clan-Boss Nasser Rammou (44, trotz anderer Schreibweise gehört er zum
+berüchtigten <Entity>Remmo</Entity>-Clan) kippte letztens vor Gericht um und kam ins Krankenhaus."	"Der <Entity>Remmo</Entity>-Clan ist in spektakuläre Millionen-Verbrechen verstrickt (Goldmünze
+Bodemuseum, Grünes Gewölbe Dresden)."	1
+"Rotlicht-Verstoß Blücherstraße, die Polizei hängt sich mit Dashcam dran. <Entity>Mittenwalder</Entity>-,
+Fürbringer-, Zossener Straße."	"Rotlicht-Verstoß Blücherstraße, die Polizei hängt sich mit Dashcam dran. Mittenwalder-,
+Fürbringer-, <Entity>Zossener Straße</Entity>."	0
+"Am 13. Oktober 2017
+wurde die Ordnungswidrigkeit Autorennen in <Entity>Deutschland</Entity> zur Straftat."	"Vorm S-Bahnhof Yorckstraße in den Gegenverkehr.
+Baustellenschild umgenietet, Auto demoliert. Goebenstraße, <Entity>Bülowstraße</Entity> – dort hängt er die
+Verfolger ab."	0
+"An einer Kreuzung fährt Rentner <Entity>Michael W. (69</Entity>) mit seinem Jeep bei Grün los, Hamdi H.
+rammt ihn mit seinem Audi."	"Staatsanwalt <Entity>Christian</Entity> Fröhlich: „Wir haben geprüft, ob bedingter Tötungsvorsatz bei dem
+Rennen vorlag. Wir haben Anhaltspunkte dafür.“"	0
+"Der Messerstecher von <Entity>Würzburg</Entity> soll nach dpa-Informationen in einer
+Psychiatrie untergebracht werden."	"Der Somalier hatte am 25. Juni in der <Entity>Würzburger Innenstadt</Entity> auf ihm offensichtlich
+unbekannte Menschen eingestochen."	0.5
+"Im Jahr 2015 hatte sich die 15-jährige Leonora M. unbemerkt von ihren Eltern radikalisiert, sie
+reiste nach <Entity>Syrien</Entity> aus und schloss sich dem Islamischen Staat an."	Leonora M. mit ihrer Tochter in <Entity>Syrien</Entity>	1
+"Edith Blum soll am 13. Januar im Bereich der Treveris-Passage <Entity>in der Innenstadt von Trier</Entity> mit
+mehreren Leuten Alkohol getrunken haben."	"Ein Zeuge entdeckte am 14. Januar 2021 die Leiche der Obdachlosen Edith Blum
+(63) zwischen Baucontainern auf dem Platz vor einem Obdachlosenheim in der
+<Entity>Luxemburger Straße in Trier (Rheinland-Pfalz</Entity>)."	0
+"Bei Ampelrot in den Gegenverkehr, Slalom in der
+Gneisenaustraße, Kollision. <Entity>Mehringdamm</Entity>/Yorckstraße, wieder Kollisionen."	"Im 7er BMW raste Halil G. (41) am 29. Oktober 2020 vormittags 5,4 Kilometer durch die
+Bezirke Kreuzberg und <Entity>Schöneberg</Entity>. Verbotenes Kraftfahrzeugrennen, vorsätzliche Gefährdung
+des Straßenverkehrs, Unfallflucht, Fahren ohne Führerschein – dafür wird er verurteilt."	0
+"Der Haupt-Tatverdächtige <Entity>Badia Al-Zein</Entity> und sein älterer Sohn Sehmus (28) sitzen weiter
+in U-Haft."	"„Mein Mandant ist aus der Haft entlassen. Es besteht kein dringender Tatverdacht“, so sein
+Verteidiger <Entity>Goran Bronisch</Entity> zu BILD."	0
+"Edith Blum soll am 13. Januar im Bereich der <Entity>Treveris-</Entity>Passage in der Innenstadt von Trier mit
+mehreren Leuten Alkohol getrunken haben."	Seit 2015 in <Entity>Deutschland</Entity>, mehrfach vorbestraft	0
+"Derzeit befindet sich Abdirahman J. (24) noch in Untersuchungshaft in einem <Entity>Gefängnis in
+Würzburg</Entity>."	"Messer-Killer von <Entity>Würzburg</Entity>
+kommt in die Psychiatrie
+Abdirahman J. (24) wird nach der Bluttat von einem Beamten am Boden fixiert"	0.3
+"Am 20. Dezember 2015 soll er <Entity>Jean W. (52</Entity>) in einer Wohnung in der Dolgenseestraße
+(Berlin-Lichtenberg) attackiert haben."	Am Donnerstag begann der Prozess gegen <Entity>Mario B. (31</Entity>) am Berliner Landgericht.	0
+Clan-Boss <Entity>Nasser Rammou</Entity> schwieg im Prozess.	Er könne das Urteil anfechten, belehrte ihn Richter <Entity>Schwanitz</Entity>.	0
+"Edith Blum soll am 13. Januar im Bereich der <Entity>Treveris-</Entity>Passage in der Innenstadt von Trier mit
+mehreren Leuten Alkohol getrunken haben."	"Ein Zeuge entdeckte am 14. Januar 2021 die Leiche der Obdachlosen Edith Blum
+(63) zwischen Baucontainern auf dem Platz vor einem Obdachlosenheim <Entity>in</Entity> der
+Luxemburger Straße in Trier (Rheinland-Pfalz)."	0
+"Ein Zeuge entdeckte am 14. Januar 2021 die Leiche der Obdachlosen Edith Blum
+(63) zwischen Baucontainern auf dem Platz vor einem Obdachlosenheim in der
+<Entity>Luxemburger Straße in Trier (Rheinland-Pfalz</Entity>)."	Seit 2015 in <Entity>Deutschland</Entity>, mehrfach vorbestraft	0
+"<Entity>Nasser Rammou</Entity> saß 15 Jahre, also ein Drittel seines
+Lebens, im Gefängnis, meist wegen Drogendelikten."	"Clan-Boss Nasser Rammou (44, trotz anderer Schreibweise gehört er zum
+berüchtigten <Entity>Remmo</Entity>-Clan) kippte letztens vor Gericht um und kam ins Krankenhaus."	0
+"Der Anwalt von <Entity>Marvin N</Entity>. sagt, aus seiner Sicht handle es sich aber rechtlich nur um eine
+„übermäßige Straßennutzung“, die als Ordnungswidrigkeit geahndet werde (400 Euro und ein
+Monat Fahrverbot)."	Während der Staatsanwalt die Anklage verlas, starrte <Entity>Marvin N. (24</Entity>) auf den Tisch.	1
+"Seit gestern stehen die beiden inzwischen wegen psychischer Probleme frühpensionierten
+Polizisten aus <Entity>Hamburg und Berlin</Entity> deshalb vor dem Landgericht Bamberg."	"Vier Tage nach dem Bruch: Festnahme in <Entity>Berlin</Entity> beim Verkauf eines zu vor geraubten
+Handys."	0.2
+"<Entity>Mario B</Entity>. soll ihn während eines
+Trinkgelages mit der Faust zu Boden gebracht und ihm dann bis zu acht Mal mit „stampfenden
+Ausholbewegungen“ und schweren Stahlkappen-Schuhen auf den Kopf getreten haben."	Bisher schweigt <Entity>Mario B</Entity>. zu den Vorwürfen.	1
+"Beide sollen dann
+zur Kreisverkehr-Baustelle am Kopf der <Entity>Römerbrücke in Trier-West</Entity> gegangen sein, um zu
+Alkohol zu trinken."	Seit 2015 in <Entity>Deutschland</Entity>, mehrfach vorbestraft	0
+"Die
+nun angeklagte <Entity>Leonora M</Entity>. soll laut Ermittlern seine Drittfrau gewesen sein."	"In Syrien soll sie ein ranghohes Mitglied des ISIS-Geheimdienstes geheiratet haben: <Entity>Martin
+Lemke (30</Entity>) aus Zeitz (Burgenlandkreis)."	0
+"<Entity>Edith Blum</Entity> soll am 13. Januar im Bereich der Treveris-Passage in der Innenstadt von Trier mit
+mehreren Leuten Alkohol getrunken haben."	"Ein Zeuge entdeckte am 14. Januar 2021 die Leiche der Obdachlosen <Entity>Edith Blum
+(63</Entity>) zwischen Baucontainern auf dem Platz vor einem Obdachlosenheim in der
+Luxemburger Straße in Trier (Rheinland-Pfalz)."	1
+"An einer Kreuzung fährt Rentner Michael W. (69) mit seinem Jeep bei Grün los, <Entity>Hamdi H</Entity>.
+rammt ihn mit seinem Audi."	Während der Staatsanwalt die Anklage verlas, starrte <Entity>Marvin N. (24</Entity>) auf den Tisch.	0
+"Ein Zeuge entdeckte am 14. Januar 2021 die Leiche der Obdachlosen <Entity>Edith Blum
+(63</Entity>) zwischen Baucontainern auf dem Platz vor einem Obdachlosenheim in der
+Luxemburger Straße in Trier (Rheinland-Pfalz)."	"Gegen 22 Uhr traf sie in der Nähe der
+Obdachlosenunterkunft „Benedikt-<Entity>Labre</Entity>-Haus“ auf den Angeschuldigten."	0
+"Derzeit befindet sich <Entity>Abdirahman J. (24</Entity>) noch in Untersuchungshaft in einem Gefängnis in
+Würzburg."	"Messer-Killer von Würzburg
+kommt in die Psychiatrie
+<Entity>Abdirahman J. (24</Entity>) wird nach der Bluttat von einem Beamten am Boden fixiert"	1
+"Am 13. Oktober 2017
+wurde die Ordnungswidrigkeit Autorennen in <Entity>Deutschland</Entity> zur Straftat."	"Im 7er BMW raste Halil G. (41) am 29. Oktober 2020 vormittags 5,4 Kilometer durch die
+Bezirke <Entity>Kreuzberg</Entity> und Schöneberg. Verbotenes Kraftfahrzeugrennen, vorsätzliche Gefährdung
+des Straßenverkehrs, Unfallflucht, Fahren ohne Führerschein – dafür wird er verurteilt."	0
+"Rotlicht-Verstoß Blücherstraße, die Polizei hängt sich mit Dashcam dran. Mittenwalder-,
+Fürbringer-, <Entity>Zossener Straße</Entity>."	"Vorm S-Bahnhof Yorckstraße in den Gegenverkehr.
+Baustellenschild umgenietet, Auto demoliert. <Entity>Goebenstraße</Entity>, Bülowstraße – dort hängt er die
+Verfolger ab."	0
+Der damalige Komplize, <Entity>Mohamed M. (33</Entity>), behauptete in seinem Prozess, er sei bereits nach der Fesselung geflüchtet, habe mit der Sex-Tat nichts zu tun.	"Feiger Sex-Gangster und
+
+Komplize vor Gericht
+
+<Entity>Mestafa B. (17</Entity>, li.) wird in Handschellen ins Gericht geführt."	0
+"Im 7er BMW raste Halil G. (41) am 29. Oktober 2020 vormittags 5,4 Kilometer durch die
+Bezirke Kreuzberg und <Entity>Schöneberg</Entity>. Verbotenes Kraftfahrzeugrennen, vorsätzliche Gefährdung
+des Straßenverkehrs, Unfallflucht, Fahren ohne Führerschein – dafür wird er verurteilt."	"Rotlicht-Verstoß <Entity>Blücherstraße</Entity>, die Polizei hängt sich mit Dashcam dran. Mittenwalder-,
+Fürbringer-, Zossener Straße."	0
+"Bei Ampelrot in den Gegenverkehr, Slalom in der
+Gneisenaustraße, Kollision. <Entity>Mehringdamm</Entity>/Yorckstraße, wieder Kollisionen."	"Rotlicht-Verstoß Blücherstraße, die Polizei hängt sich mit Dashcam dran. <Entity>Mittenwalder</Entity>-,
+Fürbringer-, Zossener Straße."	0
+"Er soll am 6. September 2020 den Hochleitungsbau-Monteur Stefan T. (44) aus <Entity>Lichtenberg</Entity>
+getötet haben."	"Nach Informationen aus Justizkreisen wirft die Berliner
+Staatsanwaltschaft Lehrer Stefan R. (41) aus <Entity>Pankow</Entity> einen Sexualmord aus niedrigen
+Beweggründen vor."	0
+"Der Afrikaner reiste im März 2015 als Flüchtling nach
+Deutschland ein, lebte zunächst im <Entity>Rhein-Hunsrück</Entity>-Kreis."	Seit 2015 in <Entity>Deutschland</Entity>, mehrfach vorbestraft	0
+Auf dem Dach hatten sie ein Blaulicht angebracht. Täuschend echt, so die wahre <Entity>Polizei</Entity>.	Felix B. in Schutzkleidung der <Entity>Berliner Polizei</Entity>	0.8
+Al-Zeins wohnen weiterhin in der <Entity>Villa</Entity>	Einer der Söhne wurde aus der <Entity>Villa</Entity> geführt	1
+"Bei Ampelrot in den Gegenverkehr, Slalom in der
+Gneisenaustraße, Kollision. <Entity>Mehringdamm</Entity>/Yorckstraße, wieder Kollisionen."	"Vorm S-Bahnhof Yorckstraße in den Gegenverkehr.
+Baustellenschild umgenietet, Auto demoliert. <Entity>Goebenstraße</Entity>, Bülowstraße – dort hängt er die
+Verfolger ab."	0
+"Bei Ampelrot in den Gegenverkehr, Slalom in der
+Gneisenaustraße, Kollision. <Entity>Mehringdamm</Entity>/Yorckstraße, wieder Kollisionen."	"Rotlicht-Verstoß <Entity>Blücherstraße</Entity>, die Polizei hängt sich mit Dashcam dran. Mittenwalder-,
+Fürbringer-, Zossener Straße."	0
+"Am 20. Dezember 2015 soll er <Entity>Jean W. (52</Entity>) in einer Wohnung in der Dolgenseestraße
+(Berlin-Lichtenberg) attackiert haben."	Neben dem aktuellen Prozess könnte ein älterer gegen <Entity>Mario B</Entity>. wieder aufgenommen werden.	0
+"Im Jahr 2015 hatte sich die 15-jährige Leonora M. unbemerkt von ihren Eltern radikalisiert, sie
+reiste nach Syrien aus und schloss sich dem <Entity>Islamischen Staat</Entity> an."	"In Syrien soll sie ein ranghohes Mitglied des <Entity>ISIS</Entity>-Geheimdienstes geheiratet haben: Martin
+Lemke (30) aus Zeitz (Burgenlandkreis)."	1
+"An einer Kreuzung fährt Rentner Michael W. (69) mit seinem Jeep bei Grün los, <Entity>Hamdi H</Entity>.
+rammt ihn mit seinem Audi."	"Der Anwalt von <Entity>Marvin N</Entity>. sagt, aus seiner Sicht handle es sich aber rechtlich nur um eine
+„übermäßige Straßennutzung“, die als Ordnungswidrigkeit geahndet werde (400 Euro und ein
+Monat Fahrverbot)."	0
+Auf dem Dach hatten sie ein Blaulicht angebracht. Täuschend echt, so die wahre <Entity>Polizei</Entity>.	"Seit gestern stehen die beiden inzwischen wegen psychischer Probleme frühpensionierten
+Polizisten aus Hamburg und Berlin deshalb vor dem <Entity>Landgericht Bamberg</Entity>."	0
+Der Dauer-Raser aus <Entity>Neukölln</Entity> hat alles zugegeben.	"Im 7er BMW raste Halil G. (41) am 29. Oktober 2020 vormittags 5,4 Kilometer durch die
+Bezirke <Entity>Kreuzberg</Entity> und Schöneberg. Verbotenes Kraftfahrzeugrennen, vorsätzliche Gefährdung
+des Straßenverkehrs, Unfallflucht, Fahren ohne Führerschein – dafür wird er verurteilt."	0
+"<Entity>Mario B</Entity>. soll ihn während eines
+Trinkgelages mit der Faust zu Boden gebracht und ihm dann bis zu acht Mal mit „stampfenden
+Ausholbewegungen“ und schweren Stahlkappen-Schuhen auf den Kopf getreten haben."	"<Entity>Mario B</Entity>. wird festgenommen und kommt
+in Untersuchungshaft."	1
+"Aber nicht Felix B.
+(31) und sein Kollege <Entity>David S. (31</Entity>)!"	„Es ging uns um den Kick“, begründet <Entity>David S. (31</Entity>) die Überfälle	1
+"Die Bundesanwaltschaft wirft der jungen Frau aus <Entity>Breitenbach bei Sangerhausen</Entity> vor,
+Mitglied einer ausländischen Terrororganisation gewesen zu sein."	"In <Entity>Syrien</Entity> soll sie ein ranghohes Mitglied des ISIS-Geheimdienstes geheiratet haben: Martin
+Lemke (30) aus Zeitz (Burgenlandkreis)."	0
+"Beide sollen dann
+zur Kreisverkehr-Baustelle am Kopf der <Entity>Römerbrücke in Trier-West</Entity> gegangen sein, um zu
+Alkohol zu trinken."	"Der Afrikaner reiste im März 2015 als Flüchtling nach
+<Entity>Deutschland</Entity> ein, lebte zunächst im Rhein-Hunsrück-Kreis."	0
+"<Entity>Mario B</Entity>. wird festgenommen und kommt
+in Untersuchungshaft."	"Am 20. Dezember 2015 soll er <Entity>Jean W. (52</Entity>) in einer Wohnung in der Dolgenseestraße
+(Berlin-Lichtenberg) attackiert haben."	0
+"Der <Entity>Remmo</Entity>-Clan ist in spektakuläre Millionen-Verbrechen verstrickt (Goldmünze
+Bodemuseum, Grünes Gewölbe Dresden)."	Er könne das Urteil anfechten, belehrte ihn Richter <Entity>Schwanitz</Entity>.	0
+<Entity>Aberrahmane M. (24</Entity>) steht wegen Überfalls und körperlicher Misshandlung einer Seniorin (72) vor Gericht	<Entity>Mohamed M. (33</Entity>, li.) soll der Komplize vom Überfall auf die ältere Seniorin (93) gewesen sein.	0
+"Beide sollen dann
+zur Kreisverkehr-Baustelle am Kopf der <Entity>Römerbrücke in Trier-West</Entity> gegangen sein, um zu
+Alkohol zu trinken."	"Im Februar 2020 zog er nach <Entity>Trier</Entity>,
+lebte zuletzt in einer von der Stadt zugewiesenen Wohnung."	0
+<Entity>Badia Al-Zein</Entity>, seine beiden Söhne und seine Frau wurden verhaftet.	"Der Haupt-Tatverdächtige Badia Al-Zein und sein älterer Sohn <Entity>Sehmus (28</Entity>) sitzen weiter
+in U-Haft."	0
+"Der Messerstecher von <Entity>Würzburg</Entity> soll nach dpa-Informationen in einer
+Psychiatrie untergebracht werden."	"Messer-Killer von <Entity>Würzburg</Entity>
+kommt in die Psychiatrie
+Abdirahman J. (24) wird nach der Bluttat von einem Beamten am Boden fixiert"	1
+"Ein Zeuge entdeckte am 14. Januar 2021 die Leiche der Obdachlosen Edith Blum
+(63) zwischen Baucontainern auf dem Platz vor einem Obdachlosenheim in der
+<Entity>Luxemburger Straße in Trier (Rheinland-Pfalz</Entity>)."	"Im Februar 2020 zog er nach <Entity>Trier</Entity>,
+lebte zuletzt in einer von der Stadt zugewiesenen Wohnung."	0.2
+"Rotlicht-Verstoß <Entity>Blücherstraße</Entity>, die Polizei hängt sich mit Dashcam dran. Mittenwalder-,
+Fürbringer-, Zossener Straße."	"Vorm S-Bahnhof Yorckstraße in den Gegenverkehr.
+Baustellenschild umgenietet, Auto demoliert. Goebenstraße, <Entity>Bülowstraße</Entity> – dort hängt er die
+Verfolger ab."	0
+"<Entity>B</Entity>. hatte sich blutüberströmt aus seiner Wohnung auf die Straße schleppen können und ein
+paar Hauseingänge weiter bei Nachbarn geklingelt."	Messer-Opfer <Entity>Balazs B. (33</Entity>) im Krankenbett, ein Bekannter machte das Foto von ihm	1
+Der Generalbundesanwalt hat die ISIS-Rückkehrerin Leonora M. (21) aus <Entity>Sachsen</Entity>-	"Die Bundesanwaltschaft wirft der jungen Frau aus <Entity>Breitenbach bei Sangerhausen</Entity> vor,
+Mitglied einer ausländischen Terrororganisation gewesen zu sein."	0
+"Im Jahr 2017 hatte der 53-jährige <Entity>Werner M</Entity>. in Berlin-Pankow seinen
+Nachbar Christian N. (68) mit einem Hammer erschlagen und die Leiche teilweise zerteilt."	"Im Jahr 2017 hatte der 53-jährige Werner M. in Berlin-Pankow seinen
+Nachbar <Entity>Christian N. (68</Entity>) mit einem Hammer erschlagen und die Leiche teilweise zerteilt."	0
+"Der Fall vom 1. Februar 2016: <Entity>Hamdi H</Entity>. fährt einen Audi A 6 TDI (225 PS), Marvin N. einen
+AMG-Mercedes (380 PS)."	"Der Fall vom 1. Februar 2016: Hamdi H. fährt einen Audi A 6 TDI (225 PS), <Entity>Marvin N</Entity>. einen
+AMG-Mercedes (380 PS)."	0
+<Entity>Marvin</Entity> habe geschwiegen: „Er gab nur Gas.“	"Der Fall vom 1. Februar 2016: Hamdi H. fährt einen Audi A 6 TDI (225 PS), <Entity>Marvin N</Entity>. einen
+AMG-Mercedes (380 PS)."	1
+"Der Anwalt von <Entity>Marvin N</Entity>. sagt, aus seiner Sicht handle es sich aber rechtlich nur um eine
+„übermäßige Straßennutzung“, die als Ordnungswidrigkeit geahndet werde (400 Euro und ein
+Monat Fahrverbot)."	"Staatsanwalt <Entity>Christian</Entity> Fröhlich: „Wir haben geprüft, ob bedingter Tötungsvorsatz bei dem
+Rennen vorlag. Wir haben Anhaltspunkte dafür.“"	0
+Clan-Boss <Entity>Nasser Rammou</Entity> schwieg im Prozess.	"Der <Entity>Remmo</Entity>-Clan ist in spektakuläre Millionen-Verbrechen verstrickt (Goldmünze
+Bodemuseum, Grünes Gewölbe Dresden)."	0
+Bluttat in <Entity>M‘Gladbach</Entity>!	"Er war Ende Juni
+blutüberströmt und lebensgefährlich verletzt nachts auf einem <Entity>Feldweg in Mönchengladbach</Entity>
+aufgefunden worden."	0.2
+"Edith Blum soll am 13. Januar im Bereich der Treveris-Passage <Entity>in der Innenstadt von Trier</Entity> mit
+mehreren Leuten Alkohol getrunken haben."	"Im Februar 2020 zog er nach <Entity>Trier</Entity>,
+lebte zuletzt in einer von der Stadt zugewiesenen Wohnung."	0.3
+<Entity>Rammou</Entity> muss drei Jahre und neun Monate in Haft, mal wieder …	„Das ist als rassistische Tat zu werten“, sagt Amtsrichter <Entity>Carsten Schwanitz</Entity>.	0
+<Entity>Leonora M</Entity>. mit ihrer Tochter in Syrien	"Generalbundesanwalt klagt
+ISIS-Braut <Entity>Leonora M</Entity>. an"	1
+"Auch der Verteidiger von <Entity>Hamdi H</Entity>. sagt: „Das Rennen war ihm nicht ansatzweise wichtig
+genug, um den Tod eines Menschen billigend in Kauf zu nehmen.“"	"Der Anwalt von <Entity>Marvin N</Entity>. sagt, aus seiner Sicht handle es sich aber rechtlich nur um eine
+„übermäßige Straßennutzung“, die als Ordnungswidrigkeit geahndet werde (400 Euro und ein
+Monat Fahrverbot)."	0
+"An einer Kreuzung fährt Rentner <Entity>Michael W. (69</Entity>) mit seinem Jeep bei Grün los, Hamdi H.
+rammt ihn mit seinem Audi."	Während der Staatsanwalt die Anklage verlas, starrte <Entity>Marvin N. (24</Entity>) auf den Tisch.	0
+Seit Ende Mai sitzt <Entity>Halil G</Entity>. in U-Haft.	"Trotzdem verlässt <Entity>Halil G. (41</Entity>) als freier Mann die
+Untersuchungshaft"	1
+"Er soll am 6. September 2020 den Hochleitungsbau-Monteur <Entity>Stefan T. (44</Entity>) aus Lichtenberg
+getötet haben."	"Nach Informationen aus Justizkreisen wirft die Berliner
+Staatsanwaltschaft Lehrer <Entity>Stefan R. (41</Entity>) aus Pankow einen Sexualmord aus niedrigen
+Beweggründen vor."	0
+<Entity>Rammou</Entity> muss drei Jahre und neun Monate in Haft, mal wieder …	Er könne das Urteil anfechten, belehrte ihn Richter <Entity>Schwanitz</Entity>.	0
+"Im 7er BMW raste Halil G. (41) am 29. Oktober 2020 vormittags 5,4 Kilometer durch die
+Bezirke Kreuzberg und <Entity>Schöneberg</Entity>. Verbotenes Kraftfahrzeugrennen, vorsätzliche Gefährdung
+des Straßenverkehrs, Unfallflucht, Fahren ohne Führerschein – dafür wird er verurteilt."	"Vorm S-Bahnhof Yorckstraße in den Gegenverkehr.
+Baustellenschild umgenietet, Auto demoliert. Goebenstraße, <Entity>Bülowstraße</Entity> – dort hängt er die
+Verfolger ab."	0
+"Der Fall vom 1. Februar 2016: Hamdi H. fährt einen Audi A 6 TDI (225 PS), <Entity>Marvin N</Entity>. einen
+AMG-Mercedes (380 PS)."	Während der Staatsanwalt die Anklage verlas, starrte <Entity>Marvin N. (24</Entity>) auf den Tisch.	1
+Der Generalbundesanwalt hat die ISIS-Rückkehrerin Leonora M. (21) aus <Entity>Sachsen</Entity>-	Leonora M. mit ihrer Tochter in <Entity>Syrien</Entity>	0
+<Entity>Rammou</Entity> muss drei Jahre und neun Monate in Haft, mal wieder …	"Clan-Boss Nasser Rammou (44, trotz anderer Schreibweise gehört er zum
+berüchtigten <Entity>Remmo</Entity>-Clan) kippte letztens vor Gericht um und kam ins Krankenhaus."	0
+"Mercedes-Beifahrerin <Entity>Olesya K. (22</Entity>) vor Gericht: „Ich war schockiert. Erstens über die
+Geschwindigkeit, zweitens über die roten Ampeln.“"	Während der Staatsanwalt die Anklage verlas, starrte <Entity>Marvin N. (24</Entity>) auf den Tisch.	0
+"<Entity>Julius Everling</Entity> begründet: „Ich gebe Ihnen die
+Chance, sich selbst zu stellen zur Strafverbüßung.“"	"Trotzdem verlässt <Entity>Halil G. (41</Entity>) als freier Mann die
+Untersuchungshaft"	0
+"Der Anwalt von <Entity>Marvin N</Entity>. sagt, aus seiner Sicht handle es sich aber rechtlich nur um eine
+„übermäßige Straßennutzung“, die als Ordnungswidrigkeit geahndet werde (400 Euro und ein
+Monat Fahrverbot)."	"Der Fall vom 1. Februar 2016: Hamdi H. fährt einen Audi A 6 TDI (225 PS), <Entity>Marvin N</Entity>. einen
+AMG-Mercedes (380 PS)."	1
+<Entity>Marvin</Entity> habe geschwiegen: „Er gab nur Gas.“	"Staatsanwalt <Entity>Christian</Entity> Fröhlich: „Wir haben geprüft, ob bedingter Tötungsvorsatz bei dem
+Rennen vorlag. Wir haben Anhaltspunkte dafür.“"	0
+"<Entity>Nasser Rammou</Entity> saß 15 Jahre, also ein Drittel seines
+Lebens, im Gefängnis, meist wegen Drogendelikten."	"Der <Entity>Remmo</Entity>-Clan ist in spektakuläre Millionen-Verbrechen verstrickt (Goldmünze
+Bodemuseum, Grünes Gewölbe Dresden)."	0
+"Der Remmo-Clan ist in spektakuläre Millionen-Verbrechen verstrickt (Goldmünze
+Bodemuseum, Grünes <Entity>Gewölbe</Entity> Dresden)."	"Er ist so schwerkriminell, dass er seit der letzten Haftentlassung im Februar 2018 eine
+elektronische Fußfessel tragen muss (passiert selten in <Entity>Deutschland</Entity>)."	0
+"Bei Ampelrot in den Gegenverkehr, Slalom in der
+<Entity>Gneisenaustraße</Entity>, Kollision. Mehringdamm/Yorckstraße, wieder Kollisionen."	"Vorm <Entity>S-Bahnhof</Entity> Yorckstraße in den Gegenverkehr.
+Baustellenschild umgenietet, Auto demoliert. Goebenstraße, Bülowstraße – dort hängt er die
+Verfolger ab."	0
+Bluttat in <Entity>M‘Gladbach</Entity>!	Die Polizei spürte Alex S. (32) in einer Wohnung <Entity>in Mönchengladbach</Entity> auf	0.5
+"Auch der Verteidiger von <Entity>Hamdi H</Entity>. sagt: „Das Rennen war ihm nicht ansatzweise wichtig
+genug, um den Tod eines Menschen billigend in Kauf zu nehmen.“"	"Der Fall vom 1. Februar 2016: <Entity>Hamdi H</Entity>. fährt einen Audi A 6 TDI (225 PS), Marvin N. einen
+AMG-Mercedes (380 PS)."	1
+"Auch der Verteidiger von <Entity>Hamdi H</Entity>. sagt: „Das Rennen war ihm nicht ansatzweise wichtig
+genug, um den Tod eines Menschen billigend in Kauf zu nehmen.“"	"Mercedes-Beifahrerin <Entity>Olesya K. (22</Entity>) vor Gericht: „Ich war schockiert. Erstens über die
+Geschwindigkeit, zweitens über die roten Ampeln.“"	0
+"Am 20. Dezember 2015 soll er <Entity>Jean W. (52</Entity>) in einer Wohnung in der Dolgenseestraße
+(Berlin-Lichtenberg) attackiert haben."	"Es ist der 6. Februar 2018, eine Wohnung in der Falkenberger Chaussee (Berlin-
+Hohenschönhausen). Gerrit <Entity>S. (39</Entity>) liegt halbtot in seinem Blut."	0
+"Am 13. Oktober 2017
+wurde die Ordnungswidrigkeit Autorennen in <Entity>Deutschland</Entity> zur Straftat."	"Vorm <Entity>S-Bahnhof</Entity> Yorckstraße in den Gegenverkehr.
+Baustellenschild umgenietet, Auto demoliert. Goebenstraße, Bülowstraße – dort hängt er die
+Verfolger ab."	0
+"Ein Bekannter des ungarischen Opfers berichtete BILD im Mai: „Die Beiden sollen sich über
+ein Dating-Portal kennengelernt haben. <Entity>Balasz</Entity> trug gern Frauenkleider, ist ein
+Transvestit.“"	Messer-Opfer <Entity>Balazs B. (33</Entity>) im Krankenbett, ein Bekannter machte das Foto von ihm	1
+<Entity>Aberrahmane M. (24</Entity>) steht wegen Überfalls und körperlicher Misshandlung einer Seniorin (72) vor Gericht	Dort entkleidete <Entity>Mestafa B</Entity>. den Unterleib der gefesselten Seniorin und versuchte, sie vergewaltigen.	0
+"Edith Blum soll am 13. Januar im Bereich der Treveris-Passage <Entity>in der Innenstadt von Trier</Entity> mit
+mehreren Leuten Alkohol getrunken haben."	"Ein Zeuge entdeckte am 14. Januar 2021 die Leiche der Obdachlosen Edith Blum
+(63) zwischen Baucontainern auf dem Platz vor einem Obdachlosenheim <Entity>in</Entity> der
+Luxemburger Straße in Trier (Rheinland-Pfalz)."	0
+Der 7. November 2020, <Entity>Bahnhof Gesundbrunnen (Wedding</Entity>).	"Polizei sucht Spione  
+aus dem Grünen <Entity>Gewölbe</Entity>"	0
+"Denn: Erst wurde wegen fahrlässiger Tötung gegen <Entity>Hamdi H</Entity>. ermittelt, dann gegen beide
+Fahrer wegen Totschlags."	"Der Anwalt von <Entity>Marvin N</Entity>. sagt, aus seiner Sicht handle es sich aber rechtlich nur um eine
+„übermäßige Straßennutzung“, die als Ordnungswidrigkeit geahndet werde (400 Euro und ein
+Monat Fahrverbot)."	0
+Auf dem Dach hatten sie ein Blaulicht angebracht. Täuschend echt, so die wahre <Entity>Polizei</Entity>.	"Die inzwischen frühpensionierten Polizisten rasten rückwärts in das Schaufenster dieses <Entity>Bamberger
+Juweliers</Entity>"	0
+"<Entity>Julius Everling</Entity> begründet: „Ich gebe Ihnen die
+Chance, sich selbst zu stellen zur Strafverbüßung.“"	"Im 7er BMW raste <Entity>Halil G. (41</Entity>) am 29. Oktober 2020 vormittags 5,4 Kilometer durch die
+Bezirke Kreuzberg und Schöneberg. Verbotenes Kraftfahrzeugrennen, vorsätzliche Gefährdung
+des Straßenverkehrs, Unfallflucht, Fahren ohne Führerschein – dafür wird er verurteilt."	0
+"Die Tat: Bei einer Probefahrt am 15. Januar dieses Jahres waren die Männer mit einem BMW
+rückwärts ins Schaufenster eines <Entity>Bamberger Juweliers</Entity> gedonnert."	"Seit gestern stehen die beiden inzwischen wegen psychischer Probleme frühpensionierten
+Polizisten aus Hamburg und Berlin deshalb vor dem <Entity>Landgericht Bamberg</Entity>."	0
+"Der Afrikaner reiste im März 2015 als Flüchtling nach
+<Entity>Deutschland</Entity> ein, lebte zunächst im Rhein-Hunsrück-Kreis."	"Im Februar 2020 zog er nach <Entity>Trier</Entity>,
+lebte zuletzt in einer von der Stadt zugewiesenen Wohnung."	0
+"Blutüberströmt schleppte sich das Opfer noch aus dem Hausflur, mehrfach war
+auf den Ungarn <Entity>Balazs B. (33</Entity>) eingestochen worden."	Messer-Opfer <Entity>Balazs B. (33</Entity>) im Krankenbett, ein Bekannter machte das Foto von ihm	1
+"Clan-Boss <Entity>Nasser Rammou</Entity>
+muss wieder in Haft"	Clan-Boss <Entity>Nasser Rammou</Entity> schwieg im Prozess.	1
+"An einer Kreuzung fährt Rentner Michael W. (69) mit seinem Jeep bei Grün los, <Entity>Hamdi H</Entity>.
+rammt ihn mit seinem Audi."	"Denn: Erst wurde wegen fahrlässiger Tötung gegen <Entity>Hamdi H</Entity>. ermittelt, dann gegen beide
+Fahrer wegen Totschlags."	1
+<Entity>Hamdi H. (27</Entity>) weinte die ganze Zeit.	"An einer Kreuzung fährt Rentner <Entity>Michael W. (69</Entity>) mit seinem Jeep bei Grün los, Hamdi H.
+rammt ihn mit seinem Audi."	0
+"Rotlicht-Verstoß Blücherstraße, die Polizei hängt sich mit Dashcam dran. <Entity>Mittenwalder</Entity>-,
+Fürbringer-, Zossener Straße."	"Rotlicht-Verstoß Blücherstraße, die Polizei hängt sich mit Dashcam dran. Mittenwalder-,
+Fürbringer<Entity>-</Entity>, Zossener Straße."	0
+"<Entity>Edith Blum</Entity> an
+den schweren Schädelverletzungen und an Unterkühlung."	"Ein Zeuge entdeckte am 14. Januar 2021 die Leiche der Obdachlosen <Entity>Edith Blum
+(63</Entity>) zwischen Baucontainern auf dem Platz vor einem Obdachlosenheim in der
+Luxemburger Straße in Trier (Rheinland-Pfalz)."	1
+"Denn: Erst wurde wegen fahrlässiger Tötung gegen <Entity>Hamdi H</Entity>. ermittelt, dann gegen beide
+Fahrer wegen Totschlags."	"Der Fall vom 1. Februar 2016: <Entity>Hamdi H</Entity>. fährt einen Audi A 6 TDI (225 PS), Marvin N. einen
+AMG-Mercedes (380 PS)."	1
+<Entity>Leonora M</Entity>. mit ihrer Tochter in Syrien	"In Syrien soll sie ein ranghohes Mitglied des ISIS-Geheimdienstes geheiratet haben: <Entity>Martin
+Lemke (30</Entity>) aus Zeitz (Burgenlandkreis)."	0
+"In <Entity>Syrien</Entity> soll sie ein ranghohes Mitglied des ISIS-Geheimdienstes geheiratet haben: Martin
+Lemke (30) aus Zeitz (Burgenlandkreis)."	"In Syrien soll sie ein ranghohes Mitglied des ISIS-Geheimdienstes geheiratet haben: Martin
+Lemke (30) aus <Entity>Zeitz (Burgenlandkreis</Entity>)."	0
+<Entity>Rammou</Entity> muss drei Jahre und neun Monate in Haft, mal wieder …	"Clan-Boss <Entity>Nasser Rammou (44</Entity>, trotz anderer Schreibweise gehört er zum
+berüchtigten Remmo-Clan) kippte letztens vor Gericht um und kam ins Krankenhaus."	1
+"Denn: Erst wurde wegen fahrlässiger Tötung gegen <Entity>Hamdi H</Entity>. ermittelt, dann gegen beide
+Fahrer wegen Totschlags."	"Mercedes-Beifahrerin <Entity>Olesya K. (22</Entity>) vor Gericht: „Ich war schockiert. Erstens über die
+Geschwindigkeit, zweitens über die roten Ampeln.“"	0
+<Entity>Rammou</Entity> muss drei Jahre und neun Monate in Haft, mal wieder …	"Clan-Boss <Entity>Nasser Rammou</Entity>
+muss wieder in Haft"	1
+"<Entity>B</Entity>. hatte sich blutüberströmt aus seiner Wohnung auf die Straße schleppen können und ein
+paar Hauseingänge weiter bei Nachbarn geklingelt."	"Blutüberströmt schleppte sich das Opfer noch aus dem Hausflur, mehrfach war
+auf den Ungarn <Entity>Balazs B. (33</Entity>) eingestochen worden."	1
+Auf der Anklagebank: Aberrahmane M. (24) aus <Entity>Tunesien</Entity> und Mestafa B. (17) aus Algerien.	Auf der Anklagebank: Aberrahmane M. (24) aus Tunesien und Mestafa B. (17) aus <Entity>Algerien</Entity>.	0
+"<Entity>Mario B</Entity>. wird festgenommen und kommt
+in Untersuchungshaft."	"Es ist der 6. Februar 2018, eine Wohnung in der Falkenberger Chaussee (Berlin-
+Hohenschönhausen). Gerrit <Entity>S. (39</Entity>) liegt halbtot in seinem Blut."	0
+<Entity>Hamdi H. (27</Entity>) weinte die ganze Zeit.	"Der Anwalt von <Entity>Marvin N</Entity>. sagt, aus seiner Sicht handle es sich aber rechtlich nur um eine
+„übermäßige Straßennutzung“, die als Ordnungswidrigkeit geahndet werde (400 Euro und ein
+Monat Fahrverbot)."	0
+"<Entity>Mario B</Entity>. wird festgenommen und kommt
+in Untersuchungshaft."	Bisher schweigt <Entity>Mario B</Entity>. zu den Vorwürfen.	1
+"Im 7er BMW raste <Entity>Halil G. (41</Entity>) am 29. Oktober 2020 vormittags 5,4 Kilometer durch die
+Bezirke Kreuzberg und Schöneberg. Verbotenes Kraftfahrzeugrennen, vorsätzliche Gefährdung
+des Straßenverkehrs, Unfallflucht, Fahren ohne Führerschein – dafür wird er verurteilt."	"Trotzdem verlässt <Entity>Halil G. (41</Entity>) als freier Mann die
+Untersuchungshaft"	1
+"Der Torso des Monteurs wurde am 23. November 2020 in einer <Entity>Pankower Grünanlage</Entity>
+gefunden."	"Die Leiche des Opfers soll der Deutsche anschließend noch in seiner Wohnung zerteilt und
+die Leichenteile an verschiedenen Orten <Entity>in Berlin</Entity> abgelegt haben."	0
+Auf der Anklagebank: <Entity>Aberrahmane M. (24</Entity>) aus Tunesien und Mestafa B. (17) aus Algerien.	"Feiger Sex-Gangster und
+
+Komplize vor Gericht
+
+<Entity>Mestafa B. (17</Entity>, li.) wird in Handschellen ins Gericht geführt."	0
+Das berichtet die in Halle erscheinende <Entity>Mitteldeutsche Zeitung</Entity> (Mittwochsausgabe).	"In Syrien soll sie ein ranghohes Mitglied des <Entity>ISIS</Entity>-Geheimdienstes geheiratet haben: Martin
+Lemke (30) aus Zeitz (Burgenlandkreis)."	0
+"Er ist so schwerkriminell, dass er seit der letzten Haftentlassung im Februar 2018 eine
+elektronische Fußfessel tragen muss (passiert selten in <Entity>Deutschland</Entity>)."	"Polizei sucht Spione  
+aus dem Grünen <Entity>Gewölbe</Entity>"	0
+Er könne das Urteil anfechten, belehrte ihn Richter <Entity>Schwanitz</Entity>.	„Das ist als rassistische Tat zu werten“, sagt Amtsrichter <Entity>Carsten Schwanitz</Entity>.	1
+Dort entkleidete <Entity>Mestafa B</Entity>. den Unterleib der gefesselten Seniorin und versuchte, sie vergewaltigen.	"Feiger Sex-Gangster und
+
+Komplize vor Gericht
+
+<Entity>Mestafa B. (17</Entity>, li.) wird in Handschellen ins Gericht geführt."	1
+Auf der Anklagebank: <Entity>Aberrahmane M. (24</Entity>) aus Tunesien und Mestafa B. (17) aus Algerien.	Der damalige Komplize, <Entity>Mohamed M. (33</Entity>), behauptete in seinem Prozess, er sei bereits nach der Fesselung geflüchtet, habe mit der Sex-Tat nichts zu tun.	0
+Clan-Boss <Entity>Nasser Rammou</Entity> schwieg im Prozess.	„Das ist als rassistische Tat zu werten“, sagt Amtsrichter <Entity>Carsten Schwanitz</Entity>.	0
+"Der 24-Jährige wurde 2015 in <Entity>Deutschland</Entity> erstmals
+registriert."	"Der Somalier hatte am 25. Juni in der <Entity>Würzburger Innenstadt</Entity> auf ihm offensichtlich
+unbekannte Menschen eingestochen."	0
+<Entity>Hamdi H. (27</Entity>) weinte die ganze Zeit.	Während der Staatsanwalt die Anklage verlas, starrte <Entity>Marvin N. (24</Entity>) auf den Tisch.	0
+<Entity>Hamdi H. (27</Entity>) weinte die ganze Zeit.	"Der Fall vom 1. Februar 2016: <Entity>Hamdi H</Entity>. fährt einen Audi A 6 TDI (225 PS), Marvin N. einen
+AMG-Mercedes (380 PS)."	1
+"Im Februar 2020 zog er nach <Entity>Trier</Entity>,
+lebte zuletzt in einer von der Stadt zugewiesenen Wohnung."	Seit 2015 in <Entity>Deutschland</Entity>, mehrfach vorbestraft	0
+"An einer Kreuzung fährt Rentner <Entity>Michael W. (69</Entity>) mit seinem Jeep bei Grün los, Hamdi H.
+rammt ihn mit seinem Audi."	"Der Fall vom 1. Februar 2016: Hamdi H. fährt einen Audi A 6 TDI (225 PS), <Entity>Marvin N</Entity>. einen
+AMG-Mercedes (380 PS)."	0
+"Im 7er BMW raste Halil G. (41) am 29. Oktober 2020 vormittags 5,4 Kilometer durch die
+Bezirke <Entity>Kreuzberg</Entity> und Schöneberg. Verbotenes Kraftfahrzeugrennen, vorsätzliche Gefährdung
+des Straßenverkehrs, Unfallflucht, Fahren ohne Führerschein – dafür wird er verurteilt."	"Rotlicht-Verstoß Blücherstraße, die Polizei hängt sich mit Dashcam dran. Mittenwalder-,
+Fürbringer-, <Entity>Zossener Straße</Entity>."	0
+Bluttat in <Entity>M‘Gladbach</Entity>!	Das Duo soll einen Mann (39) aus <Entity>Neuss</Entity> fast umgebracht haben.	0
+Am Donnerstag begann der Prozess gegen Mario B. (31) am <Entity>Berliner Landgericht</Entity>.	"Weil der
+31-Jährige Beschwerde einlegte, müsse nun das <Entity>Kammergericht</Entity> entscheiden."	0
+<Entity>Stefan R</Entity>. wird Sexualmord aus niedrigen Beweggründen vorgeworfen	"Er soll am 6. September 2020 den Hochleitungsbau-Monteur <Entity>Stefan T. (44</Entity>) aus Lichtenberg
+getötet haben."	0
+"An einer Kreuzung fährt Rentner Michael W. (69) mit seinem Jeep bei Grün los, <Entity>Hamdi H</Entity>.
+rammt ihn mit seinem Audi."	"Staatsanwalt <Entity>Christian</Entity> Fröhlich: „Wir haben geprüft, ob bedingter Tötungsvorsatz bei dem
+Rennen vorlag. Wir haben Anhaltspunkte dafür.“"	0
+"Edith Blum soll am 13. Januar im Bereich der <Entity>Treveris-</Entity>Passage in der Innenstadt von Trier mit
+mehreren Leuten Alkohol getrunken haben."	"Im Februar 2020 zog er nach <Entity>Trier</Entity>,
+lebte zuletzt in einer von der Stadt zugewiesenen Wohnung."	0
+"Bei Ampelrot in den Gegenverkehr, Slalom in der
+<Entity>Gneisenaustraße</Entity>, Kollision. Mehringdamm/Yorckstraße, wieder Kollisionen."	"Im 7er BMW raste Halil G. (41) am 29. Oktober 2020 vormittags 5,4 Kilometer durch die
+Bezirke <Entity>Kreuzberg</Entity> und Schöneberg. Verbotenes Kraftfahrzeugrennen, vorsätzliche Gefährdung
+des Straßenverkehrs, Unfallflucht, Fahren ohne Führerschein – dafür wird er verurteilt."	0
+"Der gelernte Schweißer hatte sich bereits 2014
+nach <Entity>Syrien</Entity> abgesetzt und war in der Hierarchie der Terrororganisation aufgestiegen."	Leonora M. mit ihrer Tochter in <Entity>Syrien</Entity>	1
+"<Entity>Nasser Rammou</Entity> saß 15 Jahre, also ein Drittel seines
+Lebens, im Gefängnis, meist wegen Drogendelikten."	"Clan-Boss <Entity>Nasser Rammou</Entity>
+muss wieder in Haft"	1
+"Bei Ampelrot in den Gegenverkehr, Slalom in der
+<Entity>Gneisenaustraße</Entity>, Kollision. Mehringdamm/Yorckstraße, wieder Kollisionen."	"Rotlicht-Verstoß <Entity>Blücherstraße</Entity>, die Polizei hängt sich mit Dashcam dran. Mittenwalder-,
+Fürbringer-, Zossener Straße."	0
+Am Donnerstag begann der Prozess gegen <Entity>Mario B. (31</Entity>) am Berliner Landgericht.	Bisher schweigt <Entity>Mario B</Entity>. zu den Vorwürfen.	1
+"Im 7er BMW raste Halil G. (41) am 29. Oktober 2020 vormittags 5,4 Kilometer durch die
+Bezirke Kreuzberg und <Entity>Schöneberg</Entity>. Verbotenes Kraftfahrzeugrennen, vorsätzliche Gefährdung
+des Straßenverkehrs, Unfallflucht, Fahren ohne Führerschein – dafür wird er verurteilt."	"Vorm S-Bahnhof Yorckstraße in den Gegenverkehr.
+Baustellenschild umgenietet, Auto demoliert. <Entity>Goebenstraße</Entity>, Bülowstraße – dort hängt er die
+Verfolger ab."	0
+"Das
+<Entity>Oberlandesgericht Naumburg</Entity> bestätigte dem Blatt den Eingang der Anklageschrift."	"Im Jahr 2015 hatte sich die 15-jährige Leonora M. unbemerkt von ihren Eltern radikalisiert, sie
+reiste nach Syrien aus und schloss sich dem <Entity>Islamischen Staat</Entity> an."	0
+"Anfang Juni stürmte die Polizei die <Entity>Al-Zein-Villa in Leverkusen</Entity>,
+verhaftete vier Clan-Mitglieder."	Der Staat wurde im Grundbuch der <Entity>Villa</Entity> direkt nach der Sparkasse Leverkusen eingetragen.	1
+"Der gelernte Schweißer hatte sich bereits 2014
+nach <Entity>Syrien</Entity> abgesetzt und war in der Hierarchie der Terrororganisation aufgestiegen."	"Im Jahr 2015 hatte sich die 15-jährige Leonora M. unbemerkt von ihren Eltern radikalisiert, sie
+reiste nach <Entity>Syrien</Entity> aus und schloss sich dem Islamischen Staat an."	1
+<Entity>Badia Al-Zein</Entity>, seine beiden Söhne und seine Frau wurden verhaftet.	"Staatsanwalt <Entity>Julius Sterzel</Entity>
+(ZeOS NRW): „Wir prüfen, ob wir Beschwerde einlegen.“"	0
+"Der Afrikaner reiste im März 2015 als Flüchtling nach
+<Entity>Deutschland</Entity> ein, lebte zunächst im Rhein-Hunsrück-Kreis."	"Ein Zeuge entdeckte am 14. Januar 2021 die Leiche der Obdachlosen Edith Blum
+(63) zwischen Baucontainern auf dem Platz vor einem Obdachlosenheim in der
+<Entity>Luxemburger Straße in Trier (Rheinland-Pfalz</Entity>)."	0
+"Die Leiche des Opfers soll der Deutsche anschließend noch in seiner Wohnung zerteilt und
+die Leichenteile an verschiedenen Orten <Entity>in Berlin</Entity> abgelegt haben."	"Er soll am 6. September 2020 den Hochleitungsbau-Monteur Stefan T. (44) aus <Entity>Lichtenberg</Entity>
+getötet haben."	0
+Der Dauer-Raser aus <Entity>Neukölln</Entity> hat alles zugegeben.	"Vorm S-Bahnhof Yorckstraße in den Gegenverkehr.
+Baustellenschild umgenietet, Auto demoliert. Goebenstraße, <Entity>Bülowstraße</Entity> – dort hängt er die
+Verfolger ab."	0
+<Entity>Stefan R</Entity>. wird Sexualmord aus niedrigen Beweggründen vorgeworfen	"Nach Informationen aus Justizkreisen wirft die Berliner
+Staatsanwaltschaft Lehrer <Entity>Stefan R. (41</Entity>) aus Pankow einen Sexualmord aus niedrigen
+Beweggründen vor."	1
+"Clan-Boss <Entity>Nasser Rammou</Entity>
+muss wieder in Haft"	„Das ist als rassistische Tat zu werten“, sagt Amtsrichter <Entity>Carsten Schwanitz</Entity>.	0
+Bluttat in <Entity>M‘Gladbach</Entity>!	"Die Mordkommission nahm den Gesuchten am Mittwochabend in einer Wohnung <Entity>in
+Mönchengladbach</Entity> fest."	0.3
+"<Entity>Mario B</Entity>. soll ihn während eines
+Trinkgelages mit der Faust zu Boden gebracht und ihm dann bis zu acht Mal mit „stampfenden
+Ausholbewegungen“ und schweren Stahlkappen-Schuhen auf den Kopf getreten haben."	Neben dem aktuellen Prozess könnte ein älterer gegen <Entity>Mario B</Entity>. wieder aufgenommen werden.	1
+"An einer Kreuzung fährt Rentner <Entity>Michael W. (69</Entity>) mit seinem Jeep bei Grün los, Hamdi H.
+rammt ihn mit seinem Audi."	"Auch der Verteidiger von <Entity>Hamdi H</Entity>. sagt: „Das Rennen war ihm nicht ansatzweise wichtig
+genug, um den Tod eines Menschen billigend in Kauf zu nehmen.“"	0
+Am 13. Februar klingelten sie an der Haustür der 72-Jährigen an der <Entity>Osterlinger Straße in Walle</Entity>, stießen sie zu Boden.	Auf der Anklagebank: Aberrahmane M. (24) aus <Entity>Tunesien</Entity> und Mestafa B. (17) aus Algerien.	0
+"Die
+Angriffe seien „Vergeltung und Selbstjustiz“ gewesen für einen kurz zuvor erfolgten Streit an
+seinem Kiosk <Entity>in</Entity> der Wildenbruchstraße (Neukölln)."	"Er ist so schwerkriminell, dass er seit der letzten Haftentlassung im Februar 2018 eine
+elektronische Fußfessel tragen muss (passiert selten in <Entity>Deutschland</Entity>)."	0
+Am 13. Februar klingelten sie an der Haustür der 72-Jährigen an der <Entity>Osterlinger Straße in Walle</Entity>, stießen sie zu Boden.	Auf der Anklagebank: Aberrahmane M. (24) aus Tunesien und Mestafa B. (17) aus <Entity>Algerien</Entity>.	0
+Der 7. November 2020, <Entity>Bahnhof Gesundbrunnen (Wedding</Entity>).	"Die
+Angriffe seien „Vergeltung und Selbstjustiz“ gewesen für einen kurz zuvor erfolgten Streit an
+seinem Kiosk <Entity>in</Entity> der Wildenbruchstraße (Neukölln)."	0
+"Der <Entity>Remmo</Entity>-Clan ist in spektakuläre Millionen-Verbrechen verstrickt (Goldmünze
+Bodemuseum, Grünes Gewölbe Dresden)."	„Das ist als rassistische Tat zu werten“, sagt Amtsrichter <Entity>Carsten Schwanitz</Entity>.	0
+"Rotlicht-Verstoß Blücherstraße, die Polizei hängt sich mit Dashcam dran. Mittenwalder-,
+Fürbringer-, <Entity>Zossener Straße</Entity>."	"Vorm <Entity>S-Bahnhof</Entity> Yorckstraße in den Gegenverkehr.
+Baustellenschild umgenietet, Auto demoliert. Goebenstraße, Bülowstraße – dort hängt er die
+Verfolger ab."	0
+"Clan-Boss <Entity>Nasser Rammou (44</Entity>, trotz anderer Schreibweise gehört er zum
+berüchtigten Remmo-Clan) kippte letztens vor Gericht um und kam ins Krankenhaus."	Er könne das Urteil anfechten, belehrte ihn Richter <Entity>Schwanitz</Entity>.	0
+"Der Fall vom 1. Februar 2016: <Entity>Hamdi H</Entity>. fährt einen Audi A 6 TDI (225 PS), Marvin N. einen
+AMG-Mercedes (380 PS)."	"Staatsanwalt <Entity>Christian</Entity> Fröhlich: „Wir haben geprüft, ob bedingter Tötungsvorsatz bei dem
+Rennen vorlag. Wir haben Anhaltspunkte dafür.“"	0
+Clan-Boss <Entity>Nasser Rammou</Entity> schwieg im Prozess.	"Urteil nach brutalen Angriffen auf Tschetschenen in Berlin
+Nasser <Entity>Rammou</Entity>"	1
+"<Entity>B</Entity>. hatte sich blutüberströmt aus seiner Wohnung auf die Straße schleppen können und ein
+paar Hauseingänge weiter bei Nachbarn geklingelt."	"Ein Bekannter des ungarischen Opfers berichtete BILD im Mai: „Die Beiden sollen sich über
+ein Dating-Portal kennengelernt haben. <Entity>Balasz</Entity> trug gern Frauenkleider, ist ein
+Transvestit.“"	1
+"Der Messerstecher von <Entity>Würzburg</Entity> soll nach dpa-Informationen in einer
+Psychiatrie untergebracht werden."	"Derzeit befindet sich Abdirahman J. (24) noch in Untersuchungshaft in einem <Entity>Gefängnis in
+Würzburg</Entity>."	0
+"<Entity>Nasser Rammou</Entity> saß 15 Jahre, also ein Drittel seines
+Lebens, im Gefängnis, meist wegen Drogendelikten."	"Clan-Boss <Entity>Nasser Rammou (44</Entity>, trotz anderer Schreibweise gehört er zum
+berüchtigten Remmo-Clan) kippte letztens vor Gericht um und kam ins Krankenhaus."	1
+"Anfang Juni stürmte die Polizei die <Entity>Al-Zein-Villa in Leverkusen</Entity>,
+verhaftete vier Clan-Mitglieder."	Bei der Razzia im Juni wurde diese <Entity>Villa in Leverkusen</Entity> durchsucht, es kam zu mehreren Festnahmen	1
+"Am 8. November 2020 fanden Spaziergänger im <Entity>Buchholzer Graben/Ecke</Entity> Schönerlinder
+Straße einen männlichen Oberschenkelknochen ohne Gewebe."	"Am 8. November 2020 fanden Spaziergänger im Buchholzer Graben/Ecke Schönerlinder
+<Entity>Straße</Entity> einen männlichen Oberschenkelknochen ohne Gewebe."	0
+"<Entity>Mario B</Entity>. soll ihn während eines
+Trinkgelages mit der Faust zu Boden gebracht und ihm dann bis zu acht Mal mit „stampfenden
+Ausholbewegungen“ und schweren Stahlkappen-Schuhen auf den Kopf getreten haben."	Am Donnerstag begann der Prozess gegen <Entity>Mario B. (31</Entity>) am Berliner Landgericht.	1
+Dann habe er selbst mit dem Hammer zugeschlagen, sagte <Entity>Werner M</Entity>.	"Im Jahr 2017 hatte der 53-jährige Werner M. in Berlin-Pankow seinen
+Nachbar <Entity>Christian N. (68</Entity>) mit einem Hammer erschlagen und die Leiche teilweise zerteilt."	0
+Das berichtet die in <Entity>Halle</Entity> erscheinende Mitteldeutsche Zeitung (Mittwochsausgabe).	"In <Entity>Syrien</Entity> soll sie ein ranghohes Mitglied des ISIS-Geheimdienstes geheiratet haben: Martin
+Lemke (30) aus Zeitz (Burgenlandkreis)."	0
+"An einer Kreuzung fährt Rentner <Entity>Michael W. (69</Entity>) mit seinem Jeep bei Grün los, Hamdi H.
+rammt ihn mit seinem Audi."	"Denn: Erst wurde wegen fahrlässiger Tötung gegen <Entity>Hamdi H</Entity>. ermittelt, dann gegen beide
+Fahrer wegen Totschlags."	0
+"Im 7er BMW raste Halil G. (41) am 29. Oktober 2020 vormittags 5,4 Kilometer durch die
+Bezirke <Entity>Kreuzberg</Entity> und Schöneberg. Verbotenes Kraftfahrzeugrennen, vorsätzliche Gefährdung
+des Straßenverkehrs, Unfallflucht, Fahren ohne Führerschein – dafür wird er verurteilt."	"Vorm <Entity>S-Bahnhof</Entity> Yorckstraße in den Gegenverkehr.
+Baustellenschild umgenietet, Auto demoliert. Goebenstraße, Bülowstraße – dort hängt er die
+Verfolger ab."	0
+Der Dauer-Raser aus <Entity>Neukölln</Entity> hat alles zugegeben.	"Rotlicht-Verstoß Blücherstraße, die Polizei hängt sich mit Dashcam dran. Mittenwalder-,
+Fürbringer<Entity>-</Entity>, Zossener Straße."	0
+Das berichtet die in <Entity>Halle</Entity> erscheinende Mitteldeutsche Zeitung (Mittwochsausgabe).	Der Generalbundesanwalt hat die ISIS-Rückkehrerin Leonora M. (21) aus <Entity>Sachsen</Entity>-	0
+"Bei Ampelrot in den Gegenverkehr, Slalom in der
+<Entity>Gneisenaustraße</Entity>, Kollision. Mehringdamm/Yorckstraße, wieder Kollisionen."	"Rotlicht-Verstoß Blücherstraße, die Polizei hängt sich mit Dashcam dran. <Entity>Mittenwalder</Entity>-,
+Fürbringer-, Zossener Straße."	0
+"Rotlicht-Verstoß Blücherstraße, die Polizei hängt sich mit Dashcam dran. Mittenwalder-,
+Fürbringer<Entity>-</Entity>, Zossener Straße."	"Vorm <Entity>S-Bahnhof</Entity> Yorckstraße in den Gegenverkehr.
+Baustellenschild umgenietet, Auto demoliert. Goebenstraße, Bülowstraße – dort hängt er die
+Verfolger ab."	0
+"Generalbundesanwalt klagt
+ISIS-Braut <Entity>Leonora M</Entity>. an"	"In Syrien soll sie ein ranghohes Mitglied des ISIS-Geheimdienstes geheiratet haben: <Entity>Martin
+Lemke (30</Entity>) aus Zeitz (Burgenlandkreis)."	0
+"In Syrien soll sie ein ranghohes Mitglied des ISIS-Geheimdienstes geheiratet haben: <Entity>Martin
+Lemke (30</Entity>) aus Zeitz (Burgenlandkreis)."	"Laut eines Haftbefehls gegen <Entity>M</Entity>. aus dem Jahr 2020 soll ihr Ehemann 2015 eine Frau als
+Sklavin gekauft haben, um diese zusammen mit ihren zwei Kindern „gewinnbringend“
+weiterzuverkaufen."	0
+Das Duo soll einen Mann (39) aus <Entity>Neuss</Entity> fast umgebracht haben.	"Die Mordkommission nahm den Gesuchten am Mittwochabend in einer Wohnung <Entity>in
+Mönchengladbach</Entity> fest."	0
+<Entity>Mohamed M. (33</Entity>, li.) soll der Komplize vom Überfall auf die ältere Seniorin (93) gewesen sein.	Der damalige Komplize, <Entity>Mohamed M. (33</Entity>), behauptete in seinem Prozess, er sei bereits nach der Fesselung geflüchtet, habe mit der Sex-Tat nichts zu tun.	1
+"Jetzt kam der jüngere Sohn <Entity>Mohamed (24</Entity>) aus der U-Haft
+frei!"	"„Mein Mandant ist aus der Haft entlassen. Es besteht kein dringender Tatverdacht“, so sein
+Verteidiger <Entity>Goran Bronisch</Entity> zu BILD."	0
+"Am 8. November 2020 fanden Spaziergänger im <Entity>Buchholzer Graben/Ecke</Entity> Schönerlinder
+Straße einen männlichen Oberschenkelknochen ohne Gewebe."	"Der Torso des Monteurs wurde am 23. November 2020 in einer <Entity>Pankower Grünanlage</Entity>
+gefunden."	0
+"Der gelernte Schweißer hatte sich bereits 2014
+nach <Entity>Syrien</Entity> abgesetzt und war in der Hierarchie der Terrororganisation aufgestiegen."	"In <Entity>Syrien</Entity> soll sie ein ranghohes Mitglied des ISIS-Geheimdienstes geheiratet haben: Martin
+Lemke (30) aus Zeitz (Burgenlandkreis)."	1
+"Das
+<Entity>Oberlandesgericht Naumburg</Entity> bestätigte dem Blatt den Eingang der Anklageschrift."	"In Syrien soll sie ein ranghohes Mitglied des <Entity>ISIS</Entity>-Geheimdienstes geheiratet haben: Martin
+Lemke (30) aus Zeitz (Burgenlandkreis)."	0
+<Entity>Hamdi H. (27</Entity>) weinte die ganze Zeit.	"An einer Kreuzung fährt Rentner Michael W. (69) mit seinem Jeep bei Grün los, <Entity>Hamdi H</Entity>.
+rammt ihn mit seinem Audi."	1
+<Entity>Marvin</Entity> habe geschwiegen: „Er gab nur Gas.“	"Mercedes-Beifahrerin <Entity>Olesya K. (22</Entity>) vor Gericht: „Ich war schockiert. Erstens über die
+Geschwindigkeit, zweitens über die roten Ampeln.“"	0
+Das berichtet die in <Entity>Halle</Entity> erscheinende Mitteldeutsche Zeitung (Mittwochsausgabe).	"Die Bundesanwaltschaft wirft der jungen Frau aus <Entity>Breitenbach bei Sangerhausen</Entity> vor,
+Mitglied einer ausländischen Terrororganisation gewesen zu sein."	0
+<Entity>Rammou</Entity> muss drei Jahre und neun Monate in Haft, mal wieder …	"Der <Entity>Remmo</Entity>-Clan ist in spektakuläre Millionen-Verbrechen verstrickt (Goldmünze
+Bodemuseum, Grünes Gewölbe Dresden)."	0
+"Rotlicht-Verstoß <Entity>Blücherstraße</Entity>, die Polizei hängt sich mit Dashcam dran. Mittenwalder-,
+Fürbringer-, Zossener Straße."	"Vorm S-Bahnhof Yorckstraße in den Gegenverkehr.
+Baustellenschild umgenietet, Auto demoliert. <Entity>Goebenstraße</Entity>, Bülowstraße – dort hängt er die
+Verfolger ab."	0
+"Auch der Verteidiger von <Entity>Hamdi H</Entity>. sagt: „Das Rennen war ihm nicht ansatzweise wichtig
+genug, um den Tod eines Menschen billigend in Kauf zu nehmen.“"	"Der Fall vom 1. Februar 2016: Hamdi H. fährt einen Audi A 6 TDI (225 PS), <Entity>Marvin N</Entity>. einen
+AMG-Mercedes (380 PS)."	0
+"Am 13. Oktober 2017
+wurde die Ordnungswidrigkeit Autorennen in <Entity>Deutschland</Entity> zur Straftat."	"Bei Ampelrot in den Gegenverkehr, Slalom in der
+<Entity>Gneisenaustraße</Entity>, Kollision. Mehringdamm/Yorckstraße, wieder Kollisionen."	0
+"An einer Kreuzung fährt Rentner Michael W. (69) mit seinem Jeep bei Grün los, <Entity>Hamdi H</Entity>.
+rammt ihn mit seinem Audi."	"Mercedes-Beifahrerin <Entity>Olesya K. (22</Entity>) vor Gericht: „Ich war schockiert. Erstens über die
+Geschwindigkeit, zweitens über die roten Ampeln.“"	0
+Der Generalbundesanwalt hat die ISIS-Rückkehrerin Leonora M. (21) aus <Entity>Sachsen</Entity>-	"Der gelernte Schweißer hatte sich bereits 2014
+nach <Entity>Syrien</Entity> abgesetzt und war in der Hierarchie der Terrororganisation aufgestiegen."	0
+"Am 13. Oktober 2017
+wurde die Ordnungswidrigkeit Autorennen in <Entity>Deutschland</Entity> zur Straftat."	"Rotlicht-Verstoß Blücherstraße, die Polizei hängt sich mit Dashcam dran. <Entity>Mittenwalder</Entity>-,
+Fürbringer-, Zossener Straße."	0
+"Der Haupt-Tatverdächtige Badia Al-Zein und sein älterer Sohn <Entity>Sehmus (28</Entity>) sitzen weiter
+in U-Haft."	"„Mein Mandant ist aus der Haft entlassen. Es besteht kein dringender Tatverdacht“, so sein
+Verteidiger <Entity>Goran Bronisch</Entity> zu BILD."	0
+<Entity>Marvin</Entity> habe geschwiegen: „Er gab nur Gas.“	"Der Anwalt von <Entity>Marvin N</Entity>. sagt, aus seiner Sicht handle es sich aber rechtlich nur um eine
+„übermäßige Straßennutzung“, die als Ordnungswidrigkeit geahndet werde (400 Euro und ein
+Monat Fahrverbot)."	1
+"Am 20. Dezember 2015 soll er <Entity>Jean W. (52</Entity>) in einer Wohnung in der Dolgenseestraße
+(Berlin-Lichtenberg) attackiert haben."	"Der Verdacht fiel schnell auf <Entity>Mario B</Entity>., sieben Monate später begann der
+Totschlags-Prozess gegen ihn."	0
+Der Generalbundesanwalt hat die ISIS-Rückkehrerin <Entity>Leonora M. (21</Entity>) aus Sachsen-	"Im Jahr 2015 hatte sich die 15-jährige <Entity>Leonora M</Entity>. unbemerkt von ihren Eltern radikalisiert, sie
+reiste nach Syrien aus und schloss sich dem Islamischen Staat an."	1
+<Entity>Aberrahmane M. (24</Entity>) steht wegen Überfalls und körperlicher Misshandlung einer Seniorin (72) vor Gericht	Auf der Anklagebank: Aberrahmane M. (24) aus Tunesien und <Entity>Mestafa B. (17</Entity>) aus Algerien.	0
+"Der Anwalt von <Entity>Marvin N</Entity>. sagt, aus seiner Sicht handle es sich aber rechtlich nur um eine
+„übermäßige Straßennutzung“, die als Ordnungswidrigkeit geahndet werde (400 Euro und ein
+Monat Fahrverbot)."	"Mercedes-Beifahrerin <Entity>Olesya K. (22</Entity>) vor Gericht: „Ich war schockiert. Erstens über die
+Geschwindigkeit, zweitens über die roten Ampeln.“"	0
+"Am 8. November 2020 fanden Spaziergänger im Buchholzer Graben/Ecke Schönerlinder
+<Entity>Straße</Entity> einen männlichen Oberschenkelknochen ohne Gewebe."	"Der Torso des Monteurs wurde am 23. November 2020 in einer <Entity>Pankower Grünanlage</Entity>
+gefunden."	0
+Auf der Anklagebank: Aberrahmane M. (24) aus Tunesien und <Entity>Mestafa B. (17</Entity>) aus Algerien.	Der damalige Komplize, <Entity>Mohamed M. (33</Entity>), behauptete in seinem Prozess, er sei bereits nach der Fesselung geflüchtet, habe mit der Sex-Tat nichts zu tun.	0
+"Bei Ampelrot in den Gegenverkehr, Slalom in der
+Gneisenaustraße, Kollision. <Entity>Mehringdamm</Entity>/Yorckstraße, wieder Kollisionen."	Der Dauer-Raser aus <Entity>Neukölln</Entity> hat alles zugegeben.	0
+"Rotlicht-Verstoß <Entity>Blücherstraße</Entity>, die Polizei hängt sich mit Dashcam dran. Mittenwalder-,
+Fürbringer-, Zossener Straße."	"Rotlicht-Verstoß Blücherstraße, die Polizei hängt sich mit Dashcam dran. Mittenwalder-,
+Fürbringer-, <Entity>Zossener Straße</Entity>."	0
+"Der gelernte Schweißer hatte sich bereits 2014
+nach <Entity>Syrien</Entity> abgesetzt und war in der Hierarchie der Terrororganisation aufgestiegen."	"In Syrien soll sie ein ranghohes Mitglied des ISIS-Geheimdienstes geheiratet haben: Martin
+Lemke (30) aus <Entity>Zeitz (Burgenlandkreis</Entity>)."	0
+Bei der Razzia im Juni wurde diese <Entity>Villa in Leverkusen</Entity> durchsucht, es kam zu mehreren Festnahmen	Der Staat wurde im Grundbuch der <Entity>Villa</Entity> direkt nach der Sparkasse Leverkusen eingetragen.	1
+"Die Bundesanwaltschaft wirft der jungen Frau aus <Entity>Breitenbach bei Sangerhausen</Entity> vor,
+Mitglied einer ausländischen Terrororganisation gewesen zu sein."	"In Syrien soll sie ein ranghohes Mitglied des ISIS-Geheimdienstes geheiratet haben: Martin
+Lemke (30) aus <Entity>Zeitz (Burgenlandkreis</Entity>)."	0
+<Entity>Leonora M</Entity>. mit ihrer Tochter in Syrien	"Laut eines Haftbefehls gegen <Entity>M</Entity>. aus dem Jahr 2020 soll ihr Ehemann 2015 eine Frau als
+Sklavin gekauft haben, um diese zusammen mit ihren zwei Kindern „gewinnbringend“
+weiterzuverkaufen."	1
+Auf der Anklagebank: <Entity>Aberrahmane M. (24</Entity>) aus Tunesien und Mestafa B. (17) aus Algerien.	Dort entkleidete <Entity>Mestafa B</Entity>. den Unterleib der gefesselten Seniorin und versuchte, sie vergewaltigen.	0
+"Clan-Boss <Entity>Nasser Rammou</Entity>
+muss wieder in Haft"	"Clan-Boss Nasser Rammou (44, trotz anderer Schreibweise gehört er zum
+berüchtigten <Entity>Remmo</Entity>-Clan) kippte letztens vor Gericht um und kam ins Krankenhaus."	0
+"Im 7er BMW raste Halil G. (41) am 29. Oktober 2020 vormittags 5,4 Kilometer durch die
+Bezirke Kreuzberg und <Entity>Schöneberg</Entity>. Verbotenes Kraftfahrzeugrennen, vorsätzliche Gefährdung
+des Straßenverkehrs, Unfallflucht, Fahren ohne Führerschein – dafür wird er verurteilt."	"Vorm <Entity>S-Bahnhof</Entity> Yorckstraße in den Gegenverkehr.
+Baustellenschild umgenietet, Auto demoliert. Goebenstraße, Bülowstraße – dort hängt er die
+Verfolger ab."	0
+"Am 13. Oktober 2017
+wurde die Ordnungswidrigkeit Autorennen in <Entity>Deutschland</Entity> zur Straftat."	"Rotlicht-Verstoß Blücherstraße, die Polizei hängt sich mit Dashcam dran. Mittenwalder-,
+Fürbringer<Entity>-</Entity>, Zossener Straße."	0
